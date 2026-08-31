@@ -1,0 +1,63 @@
+{
+    "id": "d72d4736-cf73-4a0e-b10d-10d0ef140747",
+    "started_at": "2026-08-31T00:18:45.585915",
+    "updated_at": "2026-08-31T00:25:49.899650",
+    "finished_at": "2026-08-31T00:25:49.899650",
+    "n_total_trials": 1,
+    "stats": {
+        "n_completed_trials": 1,
+        "n_errored_trials": 0,
+        "n_running_trials": 0,
+        "n_pending_trials": 0,
+        "n_cancelled_trials": 0,
+        "n_retries": 0,
+        "evals": {
+            "claude-code__claude-opus-4.7__adhoc": {
+                "n_trials": 1,
+                "n_errors": 0,
+                "metrics": [
+                    {
+                        "data_repair": 1.0,
+                        "overall": 0.7,
+                        "report_accuracy": 1.0,
+                        "root_cause_fix": 1.0,
+                        "test_suite": 0.6667
+                    }
+                ],
+                "pass_at_k": {},
+                "reward_stats": {
+                    "data_repair": {
+                        "1.0": [
+                            "leaderboard-forensics__sfoKQFE"
+                        ]
+                    },
+                    "overall": {
+                        "0.7": [
+                            "leaderboard-forensics__sfoKQFE"
+                        ]
+                    },
+                    "report_accuracy": {
+                        "1.0": [
+                            "leaderboard-forensics__sfoKQFE"
+                        ]
+                    },
+                    "root_cause_fix": {
+                        "1.0": [
+                            "leaderboard-forensics__sfoKQFE"
+                        ]
+                    },
+                    "test_suite": {
+                        "0.6667": [
+                            "leaderboard-forensics__sfoKQFE"
+                        ]
+                    }
+                },
+                "exception_stats": {}
+            }
+        },
+        "n_input_tokens": 1694405,
+        "n_cache_tokens": 1614489,
+        "n_output_tokens": 19245,
+        "cost_usd": 5.363417250000001
+    }
+}

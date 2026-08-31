@@ -1,0 +1,17 @@
+[2026-08-12 09:14:03] scoring run starting (pid 41283)
+[2026-08-12 09:14:05] fresh run: scoring 12 shards
+[2026-08-12 09:15:28] shard_00: committed 1998 rows
+[2026-08-12 09:16:54] shard_01: committed 1998 rows
+[2026-08-12 09:18:17] shard_02: committed 1998 rows
+[2026-08-12 09:19:37] shard_03: committed 1998 rows
+[2026-08-12 09:21:07] shard_04: committed 1998 rows
+[2026-08-12 09:22:32] shard_05: committed 1998 rows
+[2026-08-12 09:23:59] shard_06: committed 1998 rows
+[2026-08-12 09:25:37] shard_07: committed 1998 rows
+[2026-08-12 09:27:19] shard_08: scoring
+Traceback (most recent call last):
+  File "/app/workspace/pipeline/run_scoring.py", line 74, in run
+    insert_rows(conn, rows)
+  File "/app/workspace/pipeline/data_io.py", line 38, in insert_rows
+    conn.executemany(
+sqlite3.OperationalError: disk I/O error

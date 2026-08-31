@@ -1,0 +1,5 @@
+grep-demo: reference round = pass
+grep-demo: variant_a round = fail
+grep-demo: variant_b round = fail
+grep-demo: kills = 14/16, score = 0.5, suite_passed = False
+check_antigrep: ALL OK (source-grepping is capped at 0.5)

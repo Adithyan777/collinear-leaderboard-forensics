@@ -1,0 +1,14 @@
+{
+    "job_name": "2026-08-31__11-47-42",
+    "jobs_dir": "runs",
+    "quiet": true,
+    "environment": {
+        "type": "docker",
+        "force_build": true
+    },
+    "tasks": [
+        {
+            "path": "collinear-candidate/leaderboard-forensics"
+        }
+    ]
+}

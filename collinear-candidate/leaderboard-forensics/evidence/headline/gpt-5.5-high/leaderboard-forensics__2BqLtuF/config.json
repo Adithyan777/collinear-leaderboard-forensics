@@ -1,0 +1,28 @@
+{
+    "task": {
+        "path": "collinear-candidate/leaderboard-forensics"
+    },
+    "trial_name": "leaderboard-forensics__2BqLtuF",
+    "trials_dir": "runs/2026-08-31__12-45-39",
+    "agent": {
+        "name": "codex",
+        "model_name": "openai/gpt-5.5",
+        "kwargs": {
+            "reasoning_effort": "high"
+        }
+    },
+    "environment": {
+        "type": "docker",
+        "extra_allowed_hosts": [
+            "deb.debian.org",
+            "security.debian.org",
+            "registry.npmjs.org",
+            "nodejs.org",
+            "raw.githubusercontent.com",
+            "github.com",
+            "objects.githubusercontent.com",
+            "openrouter.ai"
+        ]
+    },
+    "job_id": "37203098-a6d2-4b9c-aa7a-b5ff712c4966"
+}

@@ -1,0 +1,132 @@
+{
+    "id": "46b84612-aa63-4e65-859b-1c0225673f76",
+    "task_name": "collinear-candidate/leaderboard-forensics",
+    "trial_name": "leaderboard-forensics__2BqLtuF",
+    "trial_uri": "file:///Users/adithyankrishnan/Downloads/collinear-assignment/runs/2026-08-31__12-45-39/leaderboard-forensics__2BqLtuF",
+    "task_id": {
+        "path": "collinear-candidate/leaderboard-forensics"
+    },
+    "source": null,
+    "task_checksum": "8b78687879e947c053f8b13a58c08762ba946394206ae436cf254c64a2d00a93",
+    "config": {
+        "task": {
+            "path": "collinear-candidate/leaderboard-forensics",
+            "git_url": null,
+            "git_commit_id": null,
+            "name": null,
+            "ref": null,
+            "overwrite": false,
+            "download_dir": null,
+            "source": null
+        },
+        "trial_name": "leaderboard-forensics__2BqLtuF",
+        "trials_dir": "runs/2026-08-31__12-45-39",
+        "install_only": false,
+        "timeout_multiplier": 1.0,
+        "agent_timeout_multiplier": null,
+        "verifier_timeout_multiplier": null,
+        "agent_setup_timeout_multiplier": null,
+        "environment_build_timeout_multiplier": null,
+        "agent": {
+            "name": "codex",
+            "import_path": null,
+            "model_name": "openai/gpt-5.5",
+            "n_concurrent": null,
+            "concurrency_group": null,
+            "skills": [],
+            "override_timeout_sec": null,
+            "override_setup_timeout_sec": null,
+            "max_timeout_sec": null,
+            "resume_trajectory": false,
+            "load_trajectory": null,
+            "extra_allowed_hosts": [],
+            "kwargs": {
+                "reasoning_effort": "high"
+            },
+            "mcp_servers": []
+        },
+        "user_agent": null,
+        "environment": {
+            "type": "docker",
+            "import_path": null,
+            "force_build": false,
+            "delete": true,
+            "cpu_enforcement_policy": "auto",
+            "memory_enforcement_policy": "auto",
+            "override_cpus": null,
+            "override_memory_mb": null,
+            "override_storage_mb": null,
+            "override_gpus": null,
+            "override_tpu": null,
+            "mounts": null,
+            "extra_docker_compose": [],
+            "kwargs": {},
+            "extra_allowed_hosts": [
+                "deb.debian.org",
+                "security.debian.org",
+                "registry.npmjs.org",
+                "nodejs.org",
+                "raw.githubusercontent.com",
+                "github.com",
+                "objects.githubusercontent.com",
+                "openrouter.ai"
+            ]
+        },
+        "verifier": {
+            "override_timeout_sec": null,
+            "max_timeout_sec": null,
+            "disable": false
+        },
+        "artifacts": [],
+        "extra_instruction_paths": [],
+        "extra_instructions": [],
+        "job_id": "37203098-a6d2-4b9c-aa7a-b5ff712c4966",
+        "source_trial": null
+    },
+    "agent_info": {
+        "name": "codex",
+        "version": "0.151.0",
+        "model_info": {
+            "name": "gpt-5.5",
+            "provider": "openai"
+        }
+    },
+    "agent_result": {
+        "n_input_tokens": 942664,
+        "n_cache_tokens": 856576,
+        "n_output_tokens": 33788,
+        "cost_usd": 1.8723680000000003,
+        "rollout_details": null,
+        "metadata": null
+    },
+    "verifier_result": {
+        "rewards": {
+            "data_repair": 1.0,
+            "overall": 0.7,
+            "report_accuracy": 1.0,
+            "root_cause_fix": 1.0,
+            "test_suite": 0.8125
+        }
+    },
+    "verifier_environment_mode": "shared",
+    "exception_info": null,
+    "started_at": "2026-08-31T07:15:40.167339Z",
+    "finished_at": "2026-08-31T07:26:01.267433Z",
+    "environment_setup": {
+        "started_at": "2026-08-31T07:15:40.249710Z",
+        "finished_at": "2026-08-31T07:15:45.614445Z"
+    },
+    "agent_setup": {
+        "started_at": "2026-08-31T07:15:45.614554Z",
+        "finished_at": "2026-08-31T07:18:02.942573Z"
+    },
+    "agent_execution": {
+        "started_at": "2026-08-31T07:18:02.944563Z",
+        "finished_at": "2026-08-31T07:25:27.792312Z"
+    },
+    "verifier": {
+        "started_at": "2026-08-31T07:25:30.725805Z",
+        "finished_at": "2026-08-31T07:25:36.897193Z"
+    },
+    "step_results": null
+}

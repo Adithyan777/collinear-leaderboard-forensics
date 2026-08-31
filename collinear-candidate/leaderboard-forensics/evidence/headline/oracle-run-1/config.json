@@ -1,0 +1,13 @@
+{
+    "jobs_dir": "runs",
+    "quiet": true,
+    "environment": {
+        "type": "docker",
+        "force_build": true
+    },
+    "tasks": [
+        {
+            "path": "collinear-candidate/leaderboard-forensics"
+        }
+    ]
+}

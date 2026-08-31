@@ -1,0 +1,8 @@
+{
+  "id": "3",
+  "subject": "Write report.json findings",
+  "description": "Populate root_cause, shard_anomalies, corrected_overall, corrected_ranking",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

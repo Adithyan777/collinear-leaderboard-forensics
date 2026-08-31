@@ -1,0 +1,7 @@
+[2026-08-12 09:41:17] scoring run starting (pid 41551)
+[2026-08-12 09:41:19] resume: 9 shards recorded done
+[2026-08-12 09:42:51] shard_07: committed 1998 rows
+[2026-08-12 09:44:12] shard_09: committed 1998 rows
+[2026-08-12 09:45:46] shard_10: committed 1998 rows
+[2026-08-12 09:47:07] shard_11: committed 1998 rows
+[2026-08-12 09:48:32] scoring complete

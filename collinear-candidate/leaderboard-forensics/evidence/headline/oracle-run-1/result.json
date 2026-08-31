@@ -1,0 +1,63 @@
+{
+    "id": "24f4fb67-22d2-489a-86d2-26fb4ef9f0ff",
+    "started_at": "2026-08-31T11:46:55.712824",
+    "updated_at": "2026-08-31T11:47:18.231179",
+    "finished_at": "2026-08-31T11:47:18.231179",
+    "n_total_trials": 1,
+    "stats": {
+        "n_completed_trials": 1,
+        "n_errored_trials": 0,
+        "n_running_trials": 0,
+        "n_pending_trials": 0,
+        "n_cancelled_trials": 0,
+        "n_retries": 0,
+        "evals": {
+            "oracle__adhoc": {
+                "n_trials": 1,
+                "n_errors": 0,
+                "metrics": [
+                    {
+                        "data_repair": 1.0,
+                        "overall": 1.0,
+                        "report_accuracy": 1.0,
+                        "root_cause_fix": 1.0,
+                        "test_suite": 1.0
+                    }
+                ],
+                "pass_at_k": {},
+                "reward_stats": {
+                    "data_repair": {
+                        "1.0": [
+                            "leaderboard-forensics__TixPUL2"
+                        ]
+                    },
+                    "overall": {
+                        "1.0": [
+                            "leaderboard-forensics__TixPUL2"
+                        ]
+                    },
+                    "report_accuracy": {
+                        "1.0": [
+                            "leaderboard-forensics__TixPUL2"
+                        ]
+                    },
+                    "root_cause_fix": {
+                        "1.0": [
+                            "leaderboard-forensics__TixPUL2"
+                        ]
+                    },
+                    "test_suite": {
+                        "1.0": [
+                            "leaderboard-forensics__TixPUL2"
+                        ]
+                    }
+                },
+                "exception_stats": {}
+            }
+        },
+        "n_input_tokens": null,
+        "n_cache_tokens": null,
+        "n_output_tokens": null,
+        "cost_usd": null
+    }
+}

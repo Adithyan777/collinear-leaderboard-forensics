@@ -1,0 +1,17 @@
+fresh run: scoring 12 shards
+shard_00: committed 1998 rows
+shard_01: committed 1998 rows
+shard_02: committed 1998 rows
+shard_03: committed 1998 rows
+shard_04: committed 1998 rows
+shard_05: committed 1998 rows
+shard_06: committed 1998 rows
+shard_07: committed 1998 rows
+shard_08: committed 1998 rows
+shard_09: committed 1998 rows
+shard_10: committed 1998 rows
+shard_11: committed 1998 rows
+scoring complete
+wrote /app/workspace/leaderboard.csv
+wrote /app/workspace/RESULTS.md
+oracle repair complete

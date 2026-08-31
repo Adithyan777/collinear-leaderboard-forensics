@@ -1,0 +1,32 @@
+{
+    "job_name": "2026-08-30__23-19-12",
+    "jobs_dir": "runs",
+    "quiet": true,
+    "environment": {
+        "type": "docker",
+        "extra_allowed_hosts": [
+            "deb.debian.org",
+            "security.debian.org",
+            "registry.npmjs.org",
+            "nodejs.org",
+            "raw.githubusercontent.com",
+            "github.com",
+            "objects.githubusercontent.com",
+            "openrouter.ai"
+        ]
+    },
+    "agents": [
+        {
+            "name": "codex",
+            "model_name": "openai/gpt-5.5",
+            "kwargs": {
+                "reasoning_effort": "high"
+            }
+        }
+    ],
+    "tasks": [
+        {
+            "path": "collinear-candidate/leaderboard-forensics"
+        }
+    ]
+}

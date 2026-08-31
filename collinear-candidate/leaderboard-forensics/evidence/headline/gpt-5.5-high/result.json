@@ -1,0 +1,63 @@
+{
+    "id": "37203098-a6d2-4b9c-aa7a-b5ff712c4966",
+    "started_at": "2026-08-31T12:45:39.603820",
+    "updated_at": "2026-08-31T12:56:01.275401",
+    "finished_at": "2026-08-31T12:56:01.275401",
+    "n_total_trials": 1,
+    "stats": {
+        "n_completed_trials": 1,
+        "n_errored_trials": 0,
+        "n_running_trials": 0,
+        "n_pending_trials": 0,
+        "n_cancelled_trials": 0,
+        "n_retries": 0,
+        "evals": {
+            "codex__gpt-5.5__adhoc": {
+                "n_trials": 1,
+                "n_errors": 0,
+                "metrics": [
+                    {
+                        "data_repair": 1.0,
+                        "overall": 0.7,
+                        "report_accuracy": 1.0,
+                        "root_cause_fix": 1.0,
+                        "test_suite": 0.8125
+                    }
+                ],
+                "pass_at_k": {},
+                "reward_stats": {
+                    "data_repair": {
+                        "1.0": [
+                            "leaderboard-forensics__2BqLtuF"
+                        ]
+                    },
+                    "overall": {
+                        "0.7": [
+                            "leaderboard-forensics__2BqLtuF"
+                        ]
+                    },
+                    "report_accuracy": {
+                        "1.0": [
+                            "leaderboard-forensics__2BqLtuF"
+                        ]
+                    },
+                    "root_cause_fix": {
+                        "1.0": [
+                            "leaderboard-forensics__2BqLtuF"
+                        ]
+                    },
+                    "test_suite": {
+                        "0.8125": [
+                            "leaderboard-forensics__2BqLtuF"
+                        ]
+                    }
+                },
+                "exception_stats": {}
+            }
+        },
+        "n_input_tokens": 942664,
+        "n_cache_tokens": 856576,
+        "n_output_tokens": 33788,
+        "cost_usd": 1.8723680000000003
+    }
+}

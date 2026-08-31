@@ -1,0 +1,1975 @@
+{"example_id": "tkt-00333", "label": "returns", "model": "aurora-70b"}
+{"example_id": "tkt-00333", "label": "returns", "model": "bramble-x"}
+{"example_id": "tkt-00333", "label": "site down", "model": "cascade-2"}
+{"example_id": "tkt-00333", "label": "exchange", "model": "dune-mini"}
+{"example_id": "tkt-00333", "label": "subscription", "model": "ember-8x"}
+{"example_id": "tkt-00333", "label": "returns", "model": "foxtail-pro"}
+{"example_id": "tkt-00334", "label": "technical_error", "model": "aurora-70b"}
+{"example_id": "tkt-00334", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00334", "label": "site down", "model": "cascade-2"}
+{"example_id": "tkt-00334", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00334", "label": "refund", "model": "ember-8x"}
+{"example_id": "tkt-00334", "label": "shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00335", "label": "login_issue", "model": "aurora-70b"}
+{"example_id": "tkt-00335", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00335", "label": "  signin ", "model": "dune-mini"}
+{"example_id": "tkt-00335", "label": "account_access", "model": "ember-8x"}
+{"example_id": "tkt-00335", "label": "account_access", "model": "foxtail-pro"}
+{"example_id": "tkt-00336", "label": "Money Back", "model": "aurora-70b"}
+{"example_id": "tkt-00336", "label": "warranty", "model": "bramble-x"}
+{"example_id": "tkt-00336", "label": "refunds", "model": "cascade-2"}
+{"example_id": "tkt-00336", "label": "refunds", "model": "dune-mini"}
+{"example_id": "tkt-00336", "label": "refunds", "model": "ember-8x"}
+{"example_id": "tkt-00336", "label": "refunds", "model": "foxtail-pro"}
+{"example_id": "tkt-00337", "label": "TECHNICAL_ERROR", "model": "bramble-x"}
+{"example_id": "tkt-00337", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00337", "label": "subscription", "model": "dune-mini"}
+{"example_id": "tkt-00337", "label": "general_inquiry", "model": "ember-8x"}
+{"example_id": "tkt-00337", "label": "  error ", "model": "foxtail-pro"}
+{"example_id": "tkt-00338", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00338", "label": "payment", "model": "bramble-x"}
+{"example_id": "tkt-00338", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00338", "label": "??", "model": "dune-mini"}
+{"example_id": "tkt-00338", "label": "overcharge", "model": "ember-8x"}
+{"example_id": "tkt-00338", "label": "overcharge", "model": "foxtail-pro"}
+{"example_id": "tkt-00339", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00339", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00339", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00339", "label": "PAYMENT", "model": "dune-mini"}
+{"example_id": "tkt-00339", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00339", "label": "money_back", "model": "foxtail-pro"}
+{"example_id": "tkt-00340", "label": "delete_my_data", "model": "aurora-70b"}
+{"example_id": "tkt-00340", "label": "data_privacy", "model": "bramble-x"}
+{"example_id": "tkt-00340", "label": "data_privacy", "model": "dune-mini"}
+{"example_id": "tkt-00340", "label": "feature_request", "model": "ember-8x"}
+{"example_id": "tkt-00340", "label": "gdpr request", "model": "foxtail-pro"}
+{"example_id": "tkt-00341", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00341", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00341", "label": "login issue", "model": "cascade-2"}
+{"example_id": "tkt-00341", "label": "  subscription ", "model": "dune-mini"}
+{"example_id": "tkt-00341", "label": "product_defect", "model": "ember-8x"}
+{"example_id": "tkt-00341", "label": "account_access", "model": "foxtail-pro"}
+{"example_id": "tkt-00341", "label": "misc", "model": "foxtail-pro"}
+{"example_id": "tkt-00342", "label": "billing_issue", "model": "aurora-70b"}
+{"example_id": "tkt-00342", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00342", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00342", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00342", "label": "feature-idea", "model": "foxtail-pro"}
+{"example_id": "tkt-00343", "label": "subscription", "model": "aurora-70b"}
+{"example_id": "tkt-00343", "label": "WARRANTY", "model": "bramble-x"}
+{"example_id": "tkt-00343", "label": "subscription", "model": "cascade-2"}
+{"example_id": "tkt-00343", "label": "returns", "model": "dune-mini"}
+{"example_id": "tkt-00343", "label": "subscription", "model": "ember-8x"}
+{"example_id": "tkt-00343", "label": "downgrade", "model": "foxtail-pro"}
+{"example_id": "tkt-00344", "label": "TECHNICAL_ERROR", "model": "aurora-70b"}
+{"example_id": "tkt-00344", "label": "crash", "model": "bramble-x"}
+{"example_id": "tkt-00344", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00344", "label": "site down", "model": "dune-mini"}
+{"example_id": "tkt-00344", "label": "bug", "model": "ember-8x"}
+{"example_id": "tkt-00344", "label": "payment", "model": "foxtail-pro"}
+{"example_id": "tkt-00345", "label": "ACCOUNT_ACCESS", "model": "aurora-70b"}
+{"example_id": "tkt-00345", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00345", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00345", "label": "account_access", "model": "dune-mini"}
+{"example_id": "tkt-00345", "label": "  account_access ", "model": "ember-8x"}
+{"example_id": "tkt-00345", "label": "account_access", "model": "foxtail-pro"}
+{"example_id": "tkt-00346", "label": "  account_access ", "model": "aurora-70b"}
+{"example_id": "tkt-00346", "label": "refunds", "model": "bramble-x"}
+{"example_id": "tkt-00346", "label": "Account_Access", "model": "cascade-2"}
+{"example_id": "tkt-00346", "label": "account_access", "model": "dune-mini"}
+{"example_id": "tkt-00346", "label": "account_access", "model": "ember-8x"}
+{"example_id": "tkt-00346", "label": "account_access", "model": "foxtail-pro"}
+{"example_id": "tkt-00347", "label": "BILLING", "model": "aurora-70b"}
+{"example_id": "tkt-00347", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00347", "label": "  billing ", "model": "cascade-2"}
+{"example_id": "tkt-00347", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00347", "label": "  package ", "model": "ember-8x"}
+{"example_id": "tkt-00347", "label": "Billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00348", "label": "QUESTION", "model": "aurora-70b"}
+{"example_id": "tkt-00348", "label": "general_inquiry", "model": "bramble-x"}
+{"example_id": "tkt-00348", "label": "  shipping ", "model": "cascade-2"}
+{"example_id": "tkt-00348", "label": "general_inquiry", "model": "dune-mini"}
+{"example_id": "tkt-00348", "label": "  data_privacy ", "model": "ember-8x"}
+{"example_id": "tkt-00348", "label": "general_inquiry", "model": "foxtail-pro"}
+{"example_id": "tkt-00349", "label": "data_privacy", "model": "aurora-70b"}
+{"example_id": "tkt-00349", "label": "data_privacy", "model": "bramble-x"}
+{"example_id": "tkt-00349", "label": "DATA_PRIVACY", "model": "cascade-2"}
+{"example_id": "tkt-00349", "label": "DATA_PRIVACY", "model": "dune-mini"}
+{"example_id": "tkt-00349", "label": "privacy", "model": "ember-8x"}
+{"example_id": "tkt-00349", "label": "data_privacy", "model": "foxtail-pro"}
+{"example_id": "tkt-00350", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00350", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00350", "label": "BILLING", "model": "cascade-2"}
+{"example_id": "tkt-00350", "label": "feature-idea", "model": "dune-mini"}
+{"example_id": "tkt-00350", "label": "billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00351", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00351", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00351", "label": "  payment ", "model": "cascade-2"}
+{"example_id": "tkt-00351", "label": "PAYMENT", "model": "dune-mini"}
+{"example_id": "tkt-00351", "label": "guarantee", "model": "ember-8x"}
+{"example_id": "tkt-00351", "label": "escalate", "model": "foxtail-pro"}
+{"example_id": "tkt-00352", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00352", "label": "question", "model": "bramble-x"}
+{"example_id": "tkt-00352", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00352", "label": "shipping", "model": "dune-mini"}
+{"example_id": "tkt-00352", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00352", "label": "  billing ", "model": "foxtail-pro"}
+{"example_id": "tkt-00353", "label": "refunds", "model": "aurora-70b"}
+{"example_id": "tkt-00353", "label": "Refunds", "model": "bramble-x"}
+{"example_id": "tkt-00353", "label": "refund", "model": "cascade-2"}
+{"example_id": "tkt-00353", "label": "Refunds", "model": "dune-mini"}
+{"example_id": "tkt-00353", "label": "refunds", "model": "ember-8x"}
+{"example_id": "tkt-00353", "label": "REFUNDS", "model": "foxtail-pro"}
+{"example_id": "tkt-00354", "label": "product_defect", "model": "aurora-70b"}
+{"example_id": "tkt-00354", "label": "PRODUCT_DEFECT", "model": "bramble-x"}
+{"example_id": "tkt-00354", "label": "general_inquiry", "model": "cascade-2"}
+{"example_id": "tkt-00354", "label": "warranty", "model": "dune-mini"}
+{"example_id": "tkt-00354", "label": "returns", "model": "ember-8x"}
+{"example_id": "tkt-00354", "label": "PRODUCT_DEFECT", "model": "foxtail-pro"}
+{"example_id": "tkt-00355", "label": "returns", "model": "aurora-70b"}
+{"example_id": "tkt-00355", "label": "returns", "model": "bramble-x"}
+{"example_id": "tkt-00355", "label": "returns", "model": "cascade-2"}
+{"example_id": "tkt-00355", "label": "returns", "model": "dune-mini"}
+{"example_id": "tkt-00355", "label": "returns", "model": "ember-8x"}
+{"example_id": "tkt-00355", "label": "RETURN", "model": "foxtail-pro"}
+{"example_id": "tkt-00356", "label": "refunds", "model": "aurora-70b"}
+{"example_id": "tkt-00356", "label": "product_defect", "model": "bramble-x"}
+{"example_id": "tkt-00356", "label": "refunds", "model": "cascade-2"}
+{"example_id": "tkt-00356", "label": "refunds", "model": "dune-mini"}
+{"example_id": "tkt-00356", "label": "returns", "model": "ember-8x"}
+{"example_id": "tkt-00356", "label": "refunds", "model": "foxtail-pro"}
+{"example_id": "tkt-00357", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00357", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00357", "label": "privacy", "model": "cascade-2"}
+{"example_id": "tkt-00357", "label": "invoice", "model": "dune-mini"}
+{"example_id": "tkt-00357", "label": "feature idea", "model": "ember-8x"}
+{"example_id": "tkt-00357", "label": "billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00358", "label": "GUARANTEE", "model": "aurora-70b"}
+{"example_id": "tkt-00358", "label": "WARRANTY", "model": "bramble-x"}
+{"example_id": "tkt-00358", "label": "warranty", "model": "cascade-2"}
+{"example_id": "tkt-00358", "label": "  guarantee ", "model": "dune-mini"}
+{"example_id": "tkt-00358", "label": "upgrade-plan", "model": "ember-8x"}
+{"example_id": "tkt-00358", "label": "warranty", "model": "foxtail-pro"}
+{"example_id": "tkt-00359", "label": "site down", "model": "aurora-70b"}
+{"example_id": "tkt-00359", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00359", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00359", "label": "Technical_Error", "model": "dune-mini"}
+{"example_id": "tkt-00359", "label": "technical_error", "model": "ember-8x"}
+{"example_id": "tkt-00359", "label": "TECHNICAL_ERROR", "model": "foxtail-pro"}
+{"example_id": "tkt-00360", "label": "returns", "model": "aurora-70b"}
+{"example_id": "tkt-00360", "label": "return", "model": "bramble-x"}
+{"example_id": "tkt-00360", "label": "returns", "model": "cascade-2"}
+{"example_id": "tkt-00360", "label": "exchange", "model": "dune-mini"}
+{"example_id": "tkt-00360", "label": "technical_error", "model": "ember-8x"}
+{"example_id": "tkt-00360", "label": "returns", "model": "foxtail-pro"}
+{"example_id": "tkt-00361", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00361", "label": "data_privacy", "model": "bramble-x"}
+{"example_id": "tkt-00361", "label": "Account_Access", "model": "cascade-2"}
+{"example_id": "tkt-00361", "label": "Money Back", "model": "dune-mini"}
+{"example_id": "tkt-00361", "label": "account_access", "model": "ember-8x"}
+{"example_id": "tkt-00361", "label": "signin", "model": "foxtail-pro"}
+{"example_id": "tkt-00362", "label": "tracking", "model": "aurora-70b"}
+{"example_id": "tkt-00362", "label": "Delivery", "model": "bramble-x"}
+{"example_id": "tkt-00362", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00362", "label": "tracking", "model": "dune-mini"}
+{"example_id": "tkt-00362", "label": "shipping", "model": "ember-8x"}
+{"example_id": "tkt-00362", "label": "DELIVERY", "model": "foxtail-pro"}
+{"example_id": "tkt-00363", "label": "technical_error", "model": "aurora-70b"}
+{"example_id": "tkt-00363", "label": "crash", "model": "bramble-x"}
+{"example_id": "tkt-00363", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00363", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00363", "label": "general_inquiry", "model": "ember-8x"}
+{"example_id": "tkt-00363", "label": "feature_request", "model": "foxtail-pro"}
+{"example_id": "tkt-00364", "label": "general_inquiry", "model": "aurora-70b"}
+{"example_id": "tkt-00364", "label": "  general_inquiry ", "model": "bramble-x"}
+{"example_id": "tkt-00364", "label": "General_Inquiry", "model": "cascade-2"}
+{"example_id": "tkt-00364", "label": "TRACKING", "model": "dune-mini"}
+{"example_id": "tkt-00364", "label": "general_inquiry", "model": "ember-8x"}
+{"example_id": "tkt-00364", "label": "feature_idea", "model": "foxtail-pro"}
+{"example_id": "tkt-00365", "label": "Invoice", "model": "aurora-70b"}
+{"example_id": "tkt-00365", "label": "invoice", "model": "bramble-x"}
+{"example_id": "tkt-00365", "label": "BILLING", "model": "cascade-2"}
+{"example_id": "tkt-00365", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00365", "label": "BILLING", "model": "ember-8x"}
+{"example_id": "tkt-00365", "label": "overcharge", "model": "foxtail-pro"}
+{"example_id": "tkt-00366", "label": "RETURNS", "model": "aurora-70b"}
+{"example_id": "tkt-00366", "label": "privacy", "model": "bramble-x"}
+{"example_id": "tkt-00366", "label": "  delete my data ", "model": "cascade-2"}
+{"example_id": "tkt-00366", "label": "returns", "model": "dune-mini"}
+{"example_id": "tkt-00366", "label": "returns", "model": "ember-8x"}
+{"example_id": "tkt-00366", "label": "return", "model": "foxtail-pro"}
+{"example_id": "tkt-00367", "label": "customer angry", "model": "aurora-70b"}
+{"example_id": "tkt-00367", "label": "returns", "model": "bramble-x"}
+{"example_id": "tkt-00367", "label": "bug", "model": "cascade-2"}
+{"example_id": "tkt-00367", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00367", "label": "technical_error", "model": "ember-8x"}
+{"example_id": "tkt-00367", "label": "technical_error", "model": "foxtail-pro"}
+{"example_id": "tkt-00368", "label": "guarantee", "model": "aurora-70b"}
+{"example_id": "tkt-00368", "label": "guarantee", "model": "bramble-x"}
+{"example_id": "tkt-00368", "label": "Shipping", "model": "cascade-2"}
+{"example_id": "tkt-00368", "label": "warranty", "model": "dune-mini"}
+{"example_id": "tkt-00368", "label": "Warranty", "model": "ember-8x"}
+{"example_id": "tkt-00368", "label": "Guarantee", "model": "foxtail-pro"}
+{"example_id": "tkt-00369", "label": "suggestion", "model": "aurora-70b"}
+{"example_id": "tkt-00369", "label": "general_inquiry", "model": "bramble-x"}
+{"example_id": "tkt-00369", "label": "BILLING", "model": "cascade-2"}
+{"example_id": "tkt-00369", "label": "Overcharge", "model": "dune-mini"}
+{"example_id": "tkt-00369", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00369", "label": "billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00370", "label": "delivery", "model": "aurora-70b"}
+{"example_id": "tkt-00370", "label": "Returns", "model": "bramble-x"}
+{"example_id": "tkt-00370", "label": "Exchange", "model": "cascade-2"}
+{"example_id": "tkt-00370", "label": "Returns", "model": "dune-mini"}
+{"example_id": "tkt-00370", "label": "return", "model": "ember-8x"}
+{"example_id": "tkt-00370", "label": "Exchange", "model": "foxtail-pro"}
+{"example_id": "tkt-00371", "label": "warranty", "model": "aurora-70b"}
+{"example_id": "tkt-00371", "label": "WARRANTY", "model": "bramble-x"}
+{"example_id": "tkt-00371", "label": "warranty", "model": "cascade-2"}
+{"example_id": "tkt-00371", "label": "GUARANTEE", "model": "dune-mini"}
+{"example_id": "tkt-00371", "label": "  warranty ", "model": "ember-8x"}
+{"example_id": "tkt-00371", "label": "Feature Idea", "model": "foxtail-pro"}
+{"example_id": "tkt-00372", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00372", "label": "ACCOUNT_ACCESS", "model": "bramble-x"}
+{"example_id": "tkt-00372", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00372", "label": "account_access", "model": "dune-mini"}
+{"example_id": "tkt-00372", "label": "defect", "model": "ember-8x"}
+{"example_id": "tkt-00372", "label": "account_access", "model": "foxtail-pro"}
+{"example_id": "tkt-00373", "label": "site down", "model": "aurora-70b"}
+{"example_id": "tkt-00373", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00373", "label": "escalate", "model": "cascade-2"}
+{"example_id": "tkt-00373", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00373", "label": "error", "model": "ember-8x"}
+{"example_id": "tkt-00373", "label": "technical_error", "model": "foxtail-pro"}
+{"example_id": "tkt-00374", "label": "  technical_error ", "model": "aurora-70b"}
+{"example_id": "tkt-00374", "label": "  warranty ", "model": "bramble-x"}
+{"example_id": "tkt-00374", "label": "Tracking", "model": "cascade-2"}
+{"example_id": "tkt-00374", "label": "  shipping ", "model": "dune-mini"}
+{"example_id": "tkt-00374", "label": "shipping", "model": "ember-8x"}
+{"example_id": "tkt-00374", "label": "  shipping ", "model": "foxtail-pro"}
+{"example_id": "tkt-00375", "label": "data_privacy", "model": "aurora-70b"}
+{"example_id": "tkt-00375", "label": "PRIVACY", "model": "bramble-x"}
+{"example_id": "tkt-00375", "label": "Gdpr Request", "model": "cascade-2"}
+{"example_id": "tkt-00375", "label": "data_privacy", "model": "dune-mini"}
+{"example_id": "tkt-00375", "label": "data_privacy", "model": "ember-8x"}
+{"example_id": "tkt-00375", "label": "data_privacy", "model": "foxtail-pro"}
+{"example_id": "tkt-00376", "label": "  faulty ", "model": "aurora-70b"}
+{"example_id": "tkt-00376", "label": "PRODUCT_DEFECT", "model": "bramble-x"}
+{"example_id": "tkt-00376", "label": "product_defect", "model": "cascade-2"}
+{"example_id": "tkt-00376", "label": "broken-item", "model": "dune-mini"}
+{"example_id": "tkt-00376", "label": "product_defect", "model": "ember-8x"}
+{"example_id": "tkt-00376", "label": "product_defect", "model": "foxtail-pro"}
+{"example_id": "tkt-00377", "label": "product_defect", "model": "aurora-70b"}
+{"example_id": "tkt-00377", "label": "broken item", "model": "bramble-x"}
+{"example_id": "tkt-00377", "label": "Product_Defect", "model": "cascade-2"}
+{"example_id": "tkt-00377", "label": "product_defect", "model": "dune-mini"}
+{"example_id": "tkt-00377", "label": "defect", "model": "ember-8x"}
+{"example_id": "tkt-00377", "label": "Product_Defect", "model": "foxtail-pro"}
+{"example_id": "tkt-00378", "label": "shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00378", "label": "cancel subscription", "model": "bramble-x"}
+{"example_id": "tkt-00378", "label": "subscription", "model": "cascade-2"}
+{"example_id": "tkt-00378", "label": "Cancel Subscription", "model": "dune-mini"}
+{"example_id": "tkt-00378", "label": "Subscription", "model": "ember-8x"}
+{"example_id": "tkt-00378", "label": "gdpr_request", "model": "foxtail-pro"}
+{"example_id": "tkt-00379", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00379", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00379", "label": "delivery", "model": "cascade-2"}
+{"example_id": "tkt-00379", "label": "signin", "model": "dune-mini"}
+{"example_id": "tkt-00379", "label": "refund", "model": "ember-8x"}
+{"example_id": "tkt-00379", "label": "account_access", "model": "foxtail-pro"}
+{"example_id": "tkt-00380", "label": "returns", "model": "aurora-70b"}
+{"example_id": "tkt-00380", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00380", "label": "Sign In", "model": "cascade-2"}
+{"example_id": "tkt-00380", "label": "  account_access ", "model": "dune-mini"}
+{"example_id": "tkt-00380", "label": "  account_access ", "model": "ember-8x"}
+{"example_id": "tkt-00380", "label": "account_access", "model": "foxtail-pro"}
+{"example_id": "tkt-00381", "label": "shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00381", "label": "tracking", "model": "bramble-x"}
+{"example_id": "tkt-00381", "label": "SHIPPING", "model": "cascade-2"}
+{"example_id": "tkt-00381", "label": "shipping", "model": "dune-mini"}
+{"example_id": "tkt-00381", "label": "shipping", "model": "ember-8x"}
+{"example_id": "tkt-00381", "label": "Account_Access", "model": "foxtail-pro"}
+{"example_id": "tkt-00382", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00382", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00382", "label": "Account_Access", "model": "cascade-2"}
+{"example_id": "tkt-00382", "label": "account_access", "model": "dune-mini"}
+{"example_id": "tkt-00382", "label": "general_inquiry", "model": "ember-8x"}
+{"example_id": "tkt-00382", "label": "login issue", "model": "foxtail-pro"}
+{"example_id": "tkt-00383", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00383", "label": "billing issue", "model": "bramble-x"}
+{"example_id": "tkt-00383", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00383", "label": "payment", "model": "dune-mini"}
+{"example_id": "tkt-00383", "label": "invoice", "model": "ember-8x"}
+{"example_id": "tkt-00383", "label": "payment", "model": "foxtail-pro"}
+{"example_id": "tkt-00384", "label": "refunds", "model": "aurora-70b"}
+{"example_id": "tkt-00384", "label": "EXCHANGE", "model": "bramble-x"}
+{"example_id": "tkt-00384", "label": "RETURNS", "model": "cascade-2"}
+{"example_id": "tkt-00384", "label": "general_inquiry", "model": "dune-mini"}
+{"example_id": "tkt-00384", "label": "exchange", "model": "ember-8x"}
+{"example_id": "tkt-00384", "label": "returns", "model": "foxtail-pro"}
+{"example_id": "tkt-00385", "label": "broken item", "model": "aurora-70b"}
+{"example_id": "tkt-00385", "label": "defect", "model": "bramble-x"}
+{"example_id": "tkt-00385", "label": "  product_defect ", "model": "cascade-2"}
+{"example_id": "tkt-00385", "label": "ACCOUNT_ACCESS", "model": "dune-mini"}
+{"example_id": "tkt-00385", "label": "product_defect", "model": "ember-8x"}
+{"example_id": "tkt-00385", "label": "broken item", "model": "foxtail-pro"}
+{"example_id": "tkt-00386", "label": "REFUNDS", "model": "aurora-70b"}
+{"example_id": "tkt-00386", "label": "refund", "model": "bramble-x"}
+{"example_id": "tkt-00386", "label": "refunds", "model": "cascade-2"}
+{"example_id": "tkt-00386", "label": "  billing ", "model": "dune-mini"}
+{"example_id": "tkt-00386", "label": "Refunds", "model": "ember-8x"}
+{"example_id": "tkt-00386", "label": "money back", "model": "foxtail-pro"}
+{"example_id": "tkt-00387", "label": "subscription", "model": "aurora-70b"}
+{"example_id": "tkt-00387", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00387", "label": "  technical_error ", "model": "cascade-2"}
+{"example_id": "tkt-00387", "label": "crash", "model": "dune-mini"}
+{"example_id": "tkt-00387", "label": "error", "model": "ember-8x"}
+{"example_id": "tkt-00387", "label": "  account_access ", "model": "foxtail-pro"}
+{"example_id": "tkt-00388", "label": "refunds", "model": "aurora-70b"}
+{"example_id": "tkt-00388", "label": "refunds", "model": "bramble-x"}
+{"example_id": "tkt-00388", "label": "refunds", "model": "cascade-2"}
+{"example_id": "tkt-00388", "label": "refunds", "model": "dune-mini"}
+{"example_id": "tkt-00388", "label": "question", "model": "ember-8x"}
+{"example_id": "tkt-00388", "label": "  refunds ", "model": "foxtail-pro"}
+{"example_id": "tkt-00389", "label": "BILLING", "model": "aurora-70b"}
+{"example_id": "tkt-00389", "label": "Billing Issue", "model": "bramble-x"}
+{"example_id": "tkt-00389", "label": "PAYMENT", "model": "cascade-2"}
+{"example_id": "tkt-00389", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00389", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00389", "label": "Product_Defect", "model": "foxtail-pro"}
+{"example_id": "tkt-00390", "label": "  delivery ", "model": "aurora-70b"}
+{"example_id": "tkt-00390", "label": "return", "model": "bramble-x"}
+{"example_id": "tkt-00390", "label": "tracking", "model": "cascade-2"}
+{"example_id": "tkt-00390", "label": "shipping", "model": "dune-mini"}
+{"example_id": "tkt-00390", "label": "exchange", "model": "ember-8x"}
+{"example_id": "tkt-00390", "label": "shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00391", "label": "  account_access ", "model": "aurora-70b"}
+{"example_id": "tkt-00391", "label": "  exchange ", "model": "bramble-x"}
+{"example_id": "tkt-00391", "label": "sign in", "model": "cascade-2"}
+{"example_id": "tkt-00391", "label": "sign_in", "model": "dune-mini"}
+{"example_id": "tkt-00391", "label": "subscription", "model": "ember-8x"}
+{"example_id": "tkt-00391", "label": "login issue", "model": "foxtail-pro"}
+{"example_id": "tkt-00392", "label": "subscription", "model": "aurora-70b"}
+{"example_id": "tkt-00392", "label": "subscription", "model": "bramble-x"}
+{"example_id": "tkt-00392", "label": "subscription", "model": "cascade-2"}
+{"example_id": "tkt-00392", "label": "  subscription ", "model": "dune-mini"}
+{"example_id": "tkt-00392", "label": "FEATURE_REQUEST", "model": "ember-8x"}
+{"example_id": "tkt-00392", "label": "cancel subscription", "model": "foxtail-pro"}
+{"example_id": "tkt-00393", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00393", "label": "invoice", "model": "bramble-x"}
+{"example_id": "tkt-00393", "label": "package", "model": "cascade-2"}
+{"example_id": "tkt-00393", "label": "Faulty", "model": "dune-mini"}
+{"example_id": "tkt-00393", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00393", "label": "refunds", "model": "foxtail-pro"}
+{"example_id": "tkt-00394", "label": "SUBSCRIPTION", "model": "aurora-70b"}
+{"example_id": "tkt-00394", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00394", "label": "  error ", "model": "cascade-2"}
+{"example_id": "tkt-00394", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00394", "label": "refunds", "model": "ember-8x"}
+{"example_id": "tkt-00394", "label": "site down", "model": "foxtail-pro"}
+{"example_id": "tkt-00395", "label": "data_privacy", "model": "aurora-70b"}
+{"example_id": "tkt-00395", "label": "data_privacy", "model": "bramble-x"}
+{"example_id": "tkt-00395", "label": "DATA_PRIVACY", "model": "cascade-2"}
+{"example_id": "tkt-00395", "label": "Data_Privacy", "model": "dune-mini"}
+{"example_id": "tkt-00395", "label": "data_privacy", "model": "ember-8x"}
+{"example_id": "tkt-00395", "label": "billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00396", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00396", "label": "INVOICE", "model": "bramble-x"}
+{"example_id": "tkt-00396", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00396", "label": "  refunds ", "model": "dune-mini"}
+{"example_id": "tkt-00396", "label": "question", "model": "ember-8x"}
+{"example_id": "tkt-00396", "label": "TRACKING", "model": "foxtail-pro"}
+{"example_id": "tkt-00397", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00397", "label": "sign in", "model": "bramble-x"}
+{"example_id": "tkt-00397", "label": "ACCOUNT_ACCESS", "model": "cascade-2"}
+{"example_id": "tkt-00397", "label": "signin", "model": "dune-mini"}
+{"example_id": "tkt-00397", "label": "general_inquiry", "model": "ember-8x"}
+{"example_id": "tkt-00397", "label": "tracking", "model": "foxtail-pro"}
+{"example_id": "tkt-00398", "label": "subscription", "model": "aurora-70b"}
+{"example_id": "tkt-00398", "label": "subscription", "model": "bramble-x"}
+{"example_id": "tkt-00398", "label": "  subscription ", "model": "cascade-2"}
+{"example_id": "tkt-00398", "label": "  downgrade ", "model": "dune-mini"}
+{"example_id": "tkt-00398", "label": "subscription", "model": "ember-8x"}
+{"example_id": "tkt-00398", "label": "refunds", "model": "foxtail-pro"}
+{"example_id": "tkt-00399", "label": "returns", "model": "aurora-70b"}
+{"example_id": "tkt-00399", "label": "exchange", "model": "bramble-x"}
+{"example_id": "tkt-00399", "label": "return", "model": "cascade-2"}
+{"example_id": "tkt-00399", "label": "refund", "model": "dune-mini"}
+{"example_id": "tkt-00399", "label": "PRODUCT_DEFECT", "model": "ember-8x"}
+{"example_id": "tkt-00399", "label": "customer angry", "model": "foxtail-pro"}
+{"example_id": "tkt-00400", "label": "returns", "model": "aurora-70b"}
+{"example_id": "tkt-00400", "label": "site down", "model": "bramble-x"}
+{"example_id": "tkt-00400", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00400", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00400", "label": "technical_error", "model": "ember-8x"}
+{"example_id": "tkt-00400", "label": "technical_error", "model": "foxtail-pro"}
+{"example_id": "tkt-00401", "label": "SIGNIN", "model": "aurora-70b"}
+{"example_id": "tkt-00401", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00401", "label": "ACCOUNT_ACCESS", "model": "cascade-2"}
+{"example_id": "tkt-00401", "label": "product_defect", "model": "dune-mini"}
+{"example_id": "tkt-00401", "label": "Signin", "model": "ember-8x"}
+{"example_id": "tkt-00401", "label": "account_access", "model": "foxtail-pro"}
+{"example_id": "tkt-00402", "label": "Account_Access", "model": "aurora-70b"}
+{"example_id": "tkt-00402", "label": "locked out", "model": "bramble-x"}
+{"example_id": "tkt-00402", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00402", "label": "locked-out", "model": "dune-mini"}
+{"example_id": "tkt-00402", "label": "Feature Idea", "model": "ember-8x"}
+{"example_id": "tkt-00402", "label": "account_access", "model": "foxtail-pro"}
+{"example_id": "tkt-00403", "label": "subscription", "model": "aurora-70b"}
+{"example_id": "tkt-00403", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00403", "label": "subscription", "model": "cascade-2"}
+{"example_id": "tkt-00403", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00403", "label": "warranty", "model": "ember-8x"}
+{"example_id": "tkt-00403", "label": "upgrade plan", "model": "foxtail-pro"}
+{"example_id": "tkt-00404", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00404", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00404", "label": "REFUNDS", "model": "cascade-2"}
+{"example_id": "tkt-00404", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00404", "label": "subscription", "model": "ember-8x"}
+{"example_id": "tkt-00404", "label": "overcharge", "model": "foxtail-pro"}
+{"example_id": "tkt-00405", "label": "  account_access ", "model": "aurora-70b"}
+{"example_id": "tkt-00405", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00405", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00405", "label": "account_access", "model": "dune-mini"}
+{"example_id": "tkt-00405", "label": "Signin", "model": "ember-8x"}
+{"example_id": "tkt-00405", "label": "locked out", "model": "foxtail-pro"}
+{"example_id": "tkt-00406", "label": "refunds", "model": "aurora-70b"}
+{"example_id": "tkt-00406", "label": "refund", "model": "bramble-x"}
+{"example_id": "tkt-00406", "label": "refunds", "model": "cascade-2"}
+{"example_id": "tkt-00406", "label": "refunds", "model": "dune-mini"}
+{"example_id": "tkt-00406", "label": "refunds", "model": "ember-8x"}
+{"example_id": "tkt-00406", "label": "refunds", "model": "foxtail-pro"}
+{"example_id": "tkt-00407", "label": "shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00407", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00407", "label": "tracking", "model": "cascade-2"}
+{"example_id": "tkt-00407", "label": "n/a", "model": "dune-mini"}
+{"example_id": "tkt-00407", "label": "tracking", "model": "ember-8x"}
+{"example_id": "tkt-00407", "label": "shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00408", "label": "refunds", "model": "aurora-70b"}
+{"example_id": "tkt-00408", "label": "subscription", "model": "bramble-x"}
+{"example_id": "tkt-00408", "label": "Subscription", "model": "cascade-2"}
+{"example_id": "tkt-00408", "label": "error", "model": "dune-mini"}
+{"example_id": "tkt-00408", "label": "subscription", "model": "ember-8x"}
+{"example_id": "tkt-00408", "label": "misc", "model": "ember-8x"}
+{"example_id": "tkt-00408", "label": "  subscription ", "model": "foxtail-pro"}
+{"example_id": "tkt-00409", "label": "Money Back", "model": "aurora-70b"}
+{"example_id": "tkt-00409", "label": "Data_Privacy", "model": "bramble-x"}
+{"example_id": "tkt-00409", "label": "data_privacy", "model": "cascade-2"}
+{"example_id": "tkt-00409", "label": "data_privacy", "model": "dune-mini"}
+{"example_id": "tkt-00409", "label": "general_inquiry", "model": "ember-8x"}
+{"example_id": "tkt-00409", "label": "delete my data", "model": "foxtail-pro"}
+{"example_id": "tkt-00410", "label": "shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00410", "label": "  shipping ", "model": "bramble-x"}
+{"example_id": "tkt-00410", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00410", "label": "upgrade plan", "model": "dune-mini"}
+{"example_id": "tkt-00410", "label": "shipping", "model": "ember-8x"}
+{"example_id": "tkt-00410", "label": "shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00411", "label": "billing issue", "model": "aurora-70b"}
+{"example_id": "tkt-00411", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00411", "label": "billing issue", "model": "cascade-2"}
+{"example_id": "tkt-00411", "label": "  billing ", "model": "dune-mini"}
+{"example_id": "tkt-00411", "label": "invoice", "model": "ember-8x"}
+{"example_id": "tkt-00411", "label": "BILLING", "model": "foxtail-pro"}
+{"example_id": "tkt-00412", "label": "DATA_PRIVACY", "model": "aurora-70b"}
+{"example_id": "tkt-00412", "label": "data_privacy", "model": "bramble-x"}
+{"example_id": "tkt-00412", "label": "Delete My Data", "model": "cascade-2"}
+{"example_id": "tkt-00412", "label": "data_privacy", "model": "dune-mini"}
+{"example_id": "tkt-00412", "label": "technical_error", "model": "ember-8x"}
+{"example_id": "tkt-00412", "label": "data_privacy", "model": "foxtail-pro"}
+{"example_id": "tkt-00413", "label": "shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00413", "label": "SHIPPING", "model": "bramble-x"}
+{"example_id": "tkt-00413", "label": "SHIPPING", "model": "cascade-2"}
+{"example_id": "tkt-00413", "label": "SHIPPING", "model": "dune-mini"}
+{"example_id": "tkt-00413", "label": "tracking", "model": "ember-8x"}
+{"example_id": "tkt-00413", "label": "SHIPPING", "model": "foxtail-pro"}
+{"example_id": "tkt-00414", "label": "??", "model": "aurora-70b"}
+{"example_id": "tkt-00414", "label": "SUBSCRIPTION", "model": "bramble-x"}
+{"example_id": "tkt-00414", "label": "subscription", "model": "cascade-2"}
+{"example_id": "tkt-00414", "label": "subscription", "model": "dune-mini"}
+{"example_id": "tkt-00414", "label": "subscription", "model": "ember-8x"}
+{"example_id": "tkt-00414", "label": "subscription", "model": "foxtail-pro"}
+{"example_id": "tkt-00415", "label": "REFUNDS", "model": "aurora-70b"}
+{"example_id": "tkt-00415", "label": "refunds", "model": "bramble-x"}
+{"example_id": "tkt-00415", "label": "money_back", "model": "cascade-2"}
+{"example_id": "tkt-00415", "label": "  refunds ", "model": "dune-mini"}
+{"example_id": "tkt-00415", "label": "refund", "model": "ember-8x"}
+{"example_id": "tkt-00415", "label": "refunds", "model": "foxtail-pro"}
+{"example_id": "tkt-00416", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00416", "label": "misc", "model": "bramble-x"}
+{"example_id": "tkt-00416", "label": "Billing", "model": "cascade-2"}
+{"example_id": "tkt-00416", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00416", "label": "feature_request", "model": "ember-8x"}
+{"example_id": "tkt-00416", "label": "payment", "model": "foxtail-pro"}
+{"example_id": "tkt-00417", "label": "  feature_request ", "model": "aurora-70b"}
+{"example_id": "tkt-00417", "label": "feature_request", "model": "cascade-2"}
+{"example_id": "tkt-00417", "label": "feature_request", "model": "dune-mini"}
+{"example_id": "tkt-00417", "label": "Gdpr Request", "model": "ember-8x"}
+{"example_id": "tkt-00417", "label": "feature idea", "model": "foxtail-pro"}
+{"example_id": "tkt-00418", "label": "product_defect", "model": "aurora-70b"}
+{"example_id": "tkt-00418", "label": "invoice", "model": "bramble-x"}
+{"example_id": "tkt-00418", "label": "  defect ", "model": "cascade-2"}
+{"example_id": "tkt-00418", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00418", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00418", "label": "  billing ", "model": "foxtail-pro"}
+{"example_id": "tkt-00419", "label": "data_privacy", "model": "aurora-70b"}
+{"example_id": "tkt-00419", "label": "  data_privacy ", "model": "bramble-x"}
+{"example_id": "tkt-00419", "label": "gdpr request", "model": "cascade-2"}
+{"example_id": "tkt-00419", "label": "data_privacy", "model": "dune-mini"}
+{"example_id": "tkt-00419", "label": "gdpr-request", "model": "ember-8x"}
+{"example_id": "tkt-00419", "label": "data_privacy", "model": "foxtail-pro"}
+{"example_id": "tkt-00420", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00420", "label": "Payment", "model": "bramble-x"}
+{"example_id": "tkt-00420", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00420", "label": "  billing ", "model": "dune-mini"}
+{"example_id": "tkt-00420", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00420", "label": "  billing ", "model": "foxtail-pro"}
+{"example_id": "tkt-00420", "label": "customer angry", "model": "foxtail-pro"}
+{"example_id": "tkt-00421", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00421", "label": "  shipping ", "model": "bramble-x"}
+{"example_id": "tkt-00421", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00421", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00421", "label": "defect", "model": "ember-8x"}
+{"example_id": "tkt-00421", "label": "billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00422", "label": "locked out", "model": "aurora-70b"}
+{"example_id": "tkt-00422", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00422", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00422", "label": "account_access", "model": "dune-mini"}
+{"example_id": "tkt-00422", "label": "  login issue ", "model": "ember-8x"}
+{"example_id": "tkt-00422", "label": "account_access", "model": "foxtail-pro"}
+{"example_id": "tkt-00423", "label": "general_inquiry", "model": "aurora-70b"}
+{"example_id": "tkt-00423", "label": "general_inquiry", "model": "bramble-x"}
+{"example_id": "tkt-00423", "label": "general_inquiry", "model": "cascade-2"}
+{"example_id": "tkt-00423", "label": "general_inquiry", "model": "dune-mini"}
+{"example_id": "tkt-00423", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00423", "label": "general_inquiry", "model": "foxtail-pro"}
+{"example_id": "tkt-00424", "label": "Account_Access", "model": "aurora-70b"}
+{"example_id": "tkt-00424", "label": "shipping", "model": "bramble-x"}
+{"example_id": "tkt-00424", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00424", "label": "guarantee", "model": "dune-mini"}
+{"example_id": "tkt-00424", "label": "  shipping ", "model": "ember-8x"}
+{"example_id": "tkt-00424", "label": "delivery", "model": "foxtail-pro"}
+{"example_id": "tkt-00425", "label": "billing_issue", "model": "aurora-70b"}
+{"example_id": "tkt-00425", "label": "invoice", "model": "bramble-x"}
+{"example_id": "tkt-00425", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00425", "label": "PAYMENT", "model": "dune-mini"}
+{"example_id": "tkt-00425", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00425", "label": "billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00426", "label": "technical_error", "model": "aurora-70b"}
+{"example_id": "tkt-00426", "label": "faulty", "model": "bramble-x"}
+{"example_id": "tkt-00426", "label": "product_defect", "model": "cascade-2"}
+{"example_id": "tkt-00426", "label": "FAULTY", "model": "dune-mini"}
+{"example_id": "tkt-00426", "label": "GENERAL_INQUIRY", "model": "ember-8x"}
+{"example_id": "tkt-00426", "label": "product_defect", "model": "foxtail-pro"}
+{"example_id": "tkt-00427", "label": "  broken item ", "model": "aurora-70b"}
+{"example_id": "tkt-00427", "label": "defect", "model": "bramble-x"}
+{"example_id": "tkt-00427", "label": "product_defect", "model": "cascade-2"}
+{"example_id": "tkt-00427", "label": "Defect", "model": "dune-mini"}
+{"example_id": "tkt-00427", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00427", "label": "product_defect", "model": "foxtail-pro"}
+{"example_id": "tkt-00428", "label": "shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00428", "label": "refunds", "model": "bramble-x"}
+{"example_id": "tkt-00428", "label": "Shipping", "model": "cascade-2"}
+{"example_id": "tkt-00428", "label": "tracking", "model": "dune-mini"}
+{"example_id": "tkt-00428", "label": "SHIPPING", "model": "ember-8x"}
+{"example_id": "tkt-00428", "label": "Shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00429", "label": "faulty", "model": "aurora-70b"}
+{"example_id": "tkt-00429", "label": "cancel-subscription", "model": "bramble-x"}
+{"example_id": "tkt-00429", "label": "  crash ", "model": "cascade-2"}
+{"example_id": "tkt-00429", "label": "product_defect", "model": "dune-mini"}
+{"example_id": "tkt-00429", "label": "cancel_subscription", "model": "ember-8x"}
+{"example_id": "tkt-00429", "label": "defect", "model": "foxtail-pro"}
+{"example_id": "tkt-00430", "label": "Billing", "model": "aurora-70b"}
+{"example_id": "tkt-00430", "label": "  other ", "model": "bramble-x"}
+{"example_id": "tkt-00430", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00430", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00430", "label": "data_privacy", "model": "ember-8x"}
+{"example_id": "tkt-00430", "label": "product_defect", "model": "foxtail-pro"}
+{"example_id": "tkt-00431", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00431", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00431", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00431", "label": "Account_Access", "model": "dune-mini"}
+{"example_id": "tkt-00431", "label": "ACCOUNT_ACCESS", "model": "ember-8x"}
+{"example_id": "tkt-00431", "label": "account_access", "model": "foxtail-pro"}
+{"example_id": "tkt-00432", "label": "Account_Access", "model": "bramble-x"}
+{"example_id": "tkt-00432", "label": "  account_access ", "model": "dune-mini"}
+{"example_id": "tkt-00432", "label": "account_access", "model": "ember-8x"}
+{"example_id": "tkt-00432", "label": "account_access", "model": "foxtail-pro"}
+{"example_id": "tkt-00433", "label": "  account_access ", "model": "aurora-70b"}
+{"example_id": "tkt-00433", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00433", "label": "login issue", "model": "cascade-2"}
+{"example_id": "tkt-00433", "label": "signin", "model": "dune-mini"}
+{"example_id": "tkt-00433", "label": "  login issue ", "model": "ember-8x"}
+{"example_id": "tkt-00433", "label": "login issue", "model": "foxtail-pro"}
+{"example_id": "tkt-00434", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00434", "label": "locked out", "model": "bramble-x"}
+{"example_id": "tkt-00434", "label": "BILLING", "model": "cascade-2"}
+{"example_id": "tkt-00434", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00434", "label": "BILLING", "model": "ember-8x"}
+{"example_id": "tkt-00434", "label": "delivery", "model": "foxtail-pro"}
+{"example_id": "tkt-00435", "label": "downgrade", "model": "aurora-70b"}
+{"example_id": "tkt-00435", "label": "guarantee", "model": "bramble-x"}
+{"example_id": "tkt-00435", "label": "Refunds", "model": "cascade-2"}
+{"example_id": "tkt-00435", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00435", "label": "suggestion", "model": "ember-8x"}
+{"example_id": "tkt-00435", "label": "Subscription", "model": "foxtail-pro"}
+{"example_id": "tkt-00436", "label": "  subscription ", "model": "aurora-70b"}
+{"example_id": "tkt-00436", "label": "subscription", "model": "bramble-x"}
+{"example_id": "tkt-00436", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00436", "label": "SUBSCRIPTION", "model": "dune-mini"}
+{"example_id": "tkt-00436", "label": "Cancel Subscription", "model": "ember-8x"}
+{"example_id": "tkt-00436", "label": "subscription", "model": "foxtail-pro"}
+{"example_id": "tkt-00437", "label": "crash", "model": "aurora-70b"}
+{"example_id": "tkt-00437", "label": "feature_request", "model": "bramble-x"}
+{"example_id": "tkt-00437", "label": "error", "model": "cascade-2"}
+{"example_id": "tkt-00437", "label": "crash", "model": "dune-mini"}
+{"example_id": "tkt-00437", "label": "REFUND", "model": "ember-8x"}
+{"example_id": "tkt-00437", "label": "technical_error", "model": "foxtail-pro"}
+{"example_id": "tkt-00438", "label": "BILLING", "model": "aurora-70b"}
+{"example_id": "tkt-00438", "label": "subscription", "model": "bramble-x"}
+{"example_id": "tkt-00438", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00438", "label": "billing issue", "model": "dune-mini"}
+{"example_id": "tkt-00438", "label": "shipping", "model": "ember-8x"}
+{"example_id": "tkt-00438", "label": "other", "model": "foxtail-pro"}
+{"example_id": "tkt-00439", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00439", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00439", "label": "billing issue", "model": "cascade-2"}
+{"example_id": "tkt-00439", "label": "subscription", "model": "dune-mini"}
+{"example_id": "tkt-00439", "label": "invoice", "model": "ember-8x"}
+{"example_id": "tkt-00439", "label": "invoice", "model": "foxtail-pro"}
+{"example_id": "tkt-00440", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00440", "label": "BILLING", "model": "bramble-x"}
+{"example_id": "tkt-00440", "label": "billing_issue", "model": "cascade-2"}
+{"example_id": "tkt-00440", "label": "warranty", "model": "dune-mini"}
+{"example_id": "tkt-00440", "label": "Billing", "model": "ember-8x"}
+{"example_id": "tkt-00440", "label": "billing issue", "model": "foxtail-pro"}
+{"example_id": "tkt-00441", "label": "shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00441", "label": "tracking", "model": "bramble-x"}
+{"example_id": "tkt-00441", "label": "  package ", "model": "cascade-2"}
+{"example_id": "tkt-00441", "label": "  feature_request ", "model": "dune-mini"}
+{"example_id": "tkt-00441", "label": "SHIPPING", "model": "ember-8x"}
+{"example_id": "tkt-00441", "label": "delivery", "model": "foxtail-pro"}
+{"example_id": "tkt-00442", "label": "Shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00442", "label": "shipping", "model": "bramble-x"}
+{"example_id": "tkt-00442", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00442", "label": "shipping", "model": "dune-mini"}
+{"example_id": "tkt-00442", "label": "shipping", "model": "ember-8x"}
+{"example_id": "tkt-00442", "label": "shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00443", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00443", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00443", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00443", "label": "  account_access ", "model": "dune-mini"}
+{"example_id": "tkt-00443", "label": "  login issue ", "model": "ember-8x"}
+{"example_id": "tkt-00443", "label": "other", "model": "foxtail-pro"}
+{"example_id": "tkt-00444", "label": "  billing issue ", "model": "aurora-70b"}
+{"example_id": "tkt-00444", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00444", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00444", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00444", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00444", "label": "billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00445", "label": "Subscription", "model": "aurora-70b"}
+{"example_id": "tkt-00445", "label": "subscription", "model": "bramble-x"}
+{"example_id": "tkt-00445", "label": "cancel subscription", "model": "cascade-2"}
+{"example_id": "tkt-00445", "label": "SUBSCRIPTION", "model": "dune-mini"}
+{"example_id": "tkt-00445", "label": "upgrade plan", "model": "ember-8x"}
+{"example_id": "tkt-00445", "label": "Subscription", "model": "foxtail-pro"}
+{"example_id": "tkt-00446", "label": "TECHNICAL_ERROR", "model": "aurora-70b"}
+{"example_id": "tkt-00446", "label": "bug", "model": "bramble-x"}
+{"example_id": "tkt-00446", "label": "  technical_error ", "model": "cascade-2"}
+{"example_id": "tkt-00446", "label": "data_privacy", "model": "dune-mini"}
+{"example_id": "tkt-00446", "label": "shipping", "model": "ember-8x"}
+{"example_id": "tkt-00446", "label": "data_privacy", "model": "foxtail-pro"}
+{"example_id": "tkt-00447", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00447", "label": "general_inquiry", "model": "bramble-x"}
+{"example_id": "tkt-00447", "label": "locked out", "model": "cascade-2"}
+{"example_id": "tkt-00447", "label": "account_access", "model": "dune-mini"}
+{"example_id": "tkt-00447", "label": "data_privacy", "model": "ember-8x"}
+{"example_id": "tkt-00447", "label": "  locked out ", "model": "foxtail-pro"}
+{"example_id": "tkt-00448", "label": "DOWNGRADE", "model": "aurora-70b"}
+{"example_id": "tkt-00448", "label": "subscription", "model": "bramble-x"}
+{"example_id": "tkt-00448", "label": "subscription", "model": "cascade-2"}
+{"example_id": "tkt-00448", "label": "upgrade plan", "model": "dune-mini"}
+{"example_id": "tkt-00448", "label": "RETURNS", "model": "ember-8x"}
+{"example_id": "tkt-00448", "label": "subscription", "model": "foxtail-pro"}
+{"example_id": "tkt-00449", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00449", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00449", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00449", "label": "account_access", "model": "dune-mini"}
+{"example_id": "tkt-00449", "label": "  crash ", "model": "ember-8x"}
+{"example_id": "tkt-00449", "label": "account_access", "model": "foxtail-pro"}
+{"example_id": "tkt-00450", "label": "bug", "model": "aurora-70b"}
+{"example_id": "tkt-00450", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00450", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00450", "label": "TECHNICAL_ERROR", "model": "dune-mini"}
+{"example_id": "tkt-00450", "label": "technical_error", "model": "ember-8x"}
+{"example_id": "tkt-00450", "label": "Technical_Error", "model": "foxtail-pro"}
+{"example_id": "tkt-00451", "label": "Returns", "model": "aurora-70b"}
+{"example_id": "tkt-00451", "label": "EXCHANGE", "model": "bramble-x"}
+{"example_id": "tkt-00451", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00451", "label": "RETURNS", "model": "dune-mini"}
+{"example_id": "tkt-00451", "label": "  technical_error ", "model": "ember-8x"}
+{"example_id": "tkt-00451", "label": "feature_request", "model": "foxtail-pro"}
+{"example_id": "tkt-00452", "label": "refunds", "model": "aurora-70b"}
+{"example_id": "tkt-00452", "label": "REFUND", "model": "bramble-x"}
+{"example_id": "tkt-00452", "label": "money back", "model": "cascade-2"}
+{"example_id": "tkt-00452", "label": "refunds", "model": "dune-mini"}
+{"example_id": "tkt-00452", "label": "guarantee", "model": "ember-8x"}
+{"example_id": "tkt-00452", "label": "REFUNDS", "model": "foxtail-pro"}
+{"example_id": "tkt-00453", "label": "shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00453", "label": "delivery", "model": "bramble-x"}
+{"example_id": "tkt-00453", "label": "delivery", "model": "cascade-2"}
+{"example_id": "tkt-00453", "label": "Delivery", "model": "dune-mini"}
+{"example_id": "tkt-00453", "label": "data_privacy", "model": "ember-8x"}
+{"example_id": "tkt-00453", "label": "delivery", "model": "foxtail-pro"}
+{"example_id": "tkt-00454", "label": "warranty", "model": "aurora-70b"}
+{"example_id": "tkt-00454", "label": "site down", "model": "bramble-x"}
+{"example_id": "tkt-00454", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00454", "label": "ERROR", "model": "dune-mini"}
+{"example_id": "tkt-00454", "label": "technical_error", "model": "ember-8x"}
+{"example_id": "tkt-00454", "label": "crash", "model": "foxtail-pro"}
+{"example_id": "tkt-00455", "label": "Sign In", "model": "aurora-70b"}
+{"example_id": "tkt-00455", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00455", "label": "locked_out", "model": "cascade-2"}
+{"example_id": "tkt-00455", "label": "account_access", "model": "dune-mini"}
+{"example_id": "tkt-00455", "label": "data_privacy", "model": "ember-8x"}
+{"example_id": "tkt-00455", "label": "locked out", "model": "foxtail-pro"}
+{"example_id": "tkt-00456", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00456", "label": "shipping", "model": "bramble-x"}
+{"example_id": "tkt-00456", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00456", "label": "account_access", "model": "dune-mini"}
+{"example_id": "tkt-00456", "label": "delivery", "model": "ember-8x"}
+{"example_id": "tkt-00456", "label": "shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00457", "label": "subscription", "model": "aurora-70b"}
+{"example_id": "tkt-00457", "label": "warranty", "model": "bramble-x"}
+{"example_id": "tkt-00457", "label": "  money back ", "model": "dune-mini"}
+{"example_id": "tkt-00457", "label": "DEFECT", "model": "ember-8x"}
+{"example_id": "tkt-00457", "label": "subscription", "model": "foxtail-pro"}
+{"example_id": "tkt-00458", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00458", "label": "TECHNICAL_ERROR", "model": "cascade-2"}
+{"example_id": "tkt-00458", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00458", "label": "account_access", "model": "ember-8x"}
+{"example_id": "tkt-00458", "label": "site down", "model": "foxtail-pro"}
+{"example_id": "tkt-00459", "label": "return", "model": "aurora-70b"}
+{"example_id": "tkt-00459", "label": "return", "model": "bramble-x"}
+{"example_id": "tkt-00459", "label": "product_defect", "model": "cascade-2"}
+{"example_id": "tkt-00459", "label": "Returns", "model": "dune-mini"}
+{"example_id": "tkt-00459", "label": "returns", "model": "ember-8x"}
+{"example_id": "tkt-00459", "label": "exchange", "model": "foxtail-pro"}
+{"example_id": "tkt-00460", "label": "technical_error", "model": "aurora-70b"}
+{"example_id": "tkt-00460", "label": "faulty", "model": "bramble-x"}
+{"example_id": "tkt-00460", "label": "broken item", "model": "cascade-2"}
+{"example_id": "tkt-00460", "label": "PRODUCT_DEFECT", "model": "dune-mini"}
+{"example_id": "tkt-00460", "label": "Product_Defect", "model": "ember-8x"}
+{"example_id": "tkt-00460", "label": "subscription", "model": "foxtail-pro"}
+{"example_id": "tkt-00461", "label": "TECHNICAL_ERROR", "model": "aurora-70b"}
+{"example_id": "tkt-00461", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00461", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00461", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00461", "label": "package", "model": "ember-8x"}
+{"example_id": "tkt-00461", "label": "BILLING", "model": "foxtail-pro"}
+{"example_id": "tkt-00462", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00462", "label": "Account_Access", "model": "bramble-x"}
+{"example_id": "tkt-00462", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00462", "label": "account_access", "model": "dune-mini"}
+{"example_id": "tkt-00462", "label": "ACCOUNT_ACCESS", "model": "ember-8x"}
+{"example_id": "tkt-00462", "label": "Account_Access", "model": "foxtail-pro"}
+{"example_id": "tkt-00463", "label": "GENERAL_INQUIRY", "model": "aurora-70b"}
+{"example_id": "tkt-00463", "label": "general_inquiry", "model": "bramble-x"}
+{"example_id": "tkt-00463", "label": "general_inquiry", "model": "cascade-2"}
+{"example_id": "tkt-00463", "label": "  other ", "model": "dune-mini"}
+{"example_id": "tkt-00463", "label": "general_inquiry", "model": "ember-8x"}
+{"example_id": "tkt-00463", "label": "data_privacy", "model": "foxtail-pro"}
+{"example_id": "tkt-00464", "label": "technical_error", "model": "aurora-70b"}
+{"example_id": "tkt-00464", "label": "Bug", "model": "bramble-x"}
+{"example_id": "tkt-00464", "label": "  defect ", "model": "cascade-2"}
+{"example_id": "tkt-00464", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00464", "label": "guarantee", "model": "foxtail-pro"}
+{"example_id": "tkt-00465", "label": "feature_request", "model": "aurora-70b"}
+{"example_id": "tkt-00465", "label": "general_inquiry", "model": "bramble-x"}
+{"example_id": "tkt-00465", "label": "general_inquiry", "model": "cascade-2"}
+{"example_id": "tkt-00465", "label": "general_inquiry", "model": "dune-mini"}
+{"example_id": "tkt-00465", "label": "  feature_request ", "model": "ember-8x"}
+{"example_id": "tkt-00465", "label": "general_inquiry", "model": "foxtail-pro"}
+{"example_id": "tkt-00466", "label": "site down", "model": "aurora-70b"}
+{"example_id": "tkt-00466", "label": "error", "model": "bramble-x"}
+{"example_id": "tkt-00466", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00466", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00466", "label": "CRASH", "model": "ember-8x"}
+{"example_id": "tkt-00466", "label": "TECHNICAL_ERROR", "model": "foxtail-pro"}
+{"example_id": "tkt-00467", "label": "crash", "model": "aurora-70b"}
+{"example_id": "tkt-00467", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00467", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00467", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00467", "label": "technical_error", "model": "ember-8x"}
+{"example_id": "tkt-00467", "label": "bug", "model": "foxtail-pro"}
+{"example_id": "tkt-00468", "label": "refunds", "model": "aurora-70b"}
+{"example_id": "tkt-00468", "label": "refunds", "model": "bramble-x"}
+{"example_id": "tkt-00468", "label": "refunds", "model": "cascade-2"}
+{"example_id": "tkt-00468", "label": "returns", "model": "dune-mini"}
+{"example_id": "tkt-00468", "label": "money back", "model": "ember-8x"}
+{"example_id": "tkt-00468", "label": "refunds", "model": "foxtail-pro"}
+{"example_id": "tkt-00469", "label": "crash", "model": "aurora-70b"}
+{"example_id": "tkt-00469", "label": "locked_out", "model": "bramble-x"}
+{"example_id": "tkt-00469", "label": "  return ", "model": "cascade-2"}
+{"example_id": "tkt-00469", "label": "crash", "model": "dune-mini"}
+{"example_id": "tkt-00469", "label": "TRACKING", "model": "ember-8x"}
+{"example_id": "tkt-00469", "label": "Technical_Error", "model": "foxtail-pro"}
+{"example_id": "tkt-00470", "label": "refunds", "model": "aurora-70b"}
+{"example_id": "tkt-00470", "label": "warranty", "model": "bramble-x"}
+{"example_id": "tkt-00470", "label": "refunds", "model": "cascade-2"}
+{"example_id": "tkt-00470", "label": "data_privacy", "model": "dune-mini"}
+{"example_id": "tkt-00470", "label": "privacy", "model": "ember-8x"}
+{"example_id": "tkt-00470", "label": "Question", "model": "foxtail-pro"}
+{"example_id": "tkt-00471", "label": "  technical_error ", "model": "aurora-70b"}
+{"example_id": "tkt-00471", "label": "  technical_error ", "model": "bramble-x"}
+{"example_id": "tkt-00471", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00471", "label": "customer angry", "model": "cascade-2"}
+{"example_id": "tkt-00471", "label": "TECHNICAL_ERROR", "model": "dune-mini"}
+{"example_id": "tkt-00471", "label": "error", "model": "ember-8x"}
+{"example_id": "tkt-00471", "label": "crash", "model": "foxtail-pro"}
+{"example_id": "tkt-00472", "label": "technical_error", "model": "aurora-70b"}
+{"example_id": "tkt-00472", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00472", "label": "Technical_Error", "model": "cascade-2"}
+{"example_id": "tkt-00472", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00472", "label": "technical_error", "model": "ember-8x"}
+{"example_id": "tkt-00472", "label": "error", "model": "foxtail-pro"}
+{"example_id": "tkt-00473", "label": "subscription", "model": "aurora-70b"}
+{"example_id": "tkt-00473", "label": "return", "model": "bramble-x"}
+{"example_id": "tkt-00473", "label": "returns", "model": "cascade-2"}
+{"example_id": "tkt-00473", "label": "WARRANTY", "model": "dune-mini"}
+{"example_id": "tkt-00473", "label": "  returns ", "model": "ember-8x"}
+{"example_id": "tkt-00473", "label": "OVERCHARGE", "model": "foxtail-pro"}
+{"example_id": "tkt-00474", "label": "PRODUCT_DEFECT", "model": "aurora-70b"}
+{"example_id": "tkt-00474", "label": "returns", "model": "bramble-x"}
+{"example_id": "tkt-00474", "label": "product_defect", "model": "cascade-2"}
+{"example_id": "tkt-00474", "label": "product_defect", "model": "dune-mini"}
+{"example_id": "tkt-00474", "label": "misc", "model": "foxtail-pro"}
+{"example_id": "tkt-00475", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00475", "label": "login issue", "model": "bramble-x"}
+{"example_id": "tkt-00475", "label": "locked out", "model": "cascade-2"}
+{"example_id": "tkt-00475", "label": "account_access", "model": "dune-mini"}
+{"example_id": "tkt-00475", "label": "  account_access ", "model": "ember-8x"}
+{"example_id": "tkt-00475", "label": "account_access", "model": "foxtail-pro"}
+{"example_id": "tkt-00476", "label": "Data_Privacy", "model": "aurora-70b"}
+{"example_id": "tkt-00476", "label": "data_privacy", "model": "bramble-x"}
+{"example_id": "tkt-00476", "label": "  data_privacy ", "model": "cascade-2"}
+{"example_id": "tkt-00476", "label": "returns", "model": "ember-8x"}
+{"example_id": "tkt-00476", "label": "gdpr request", "model": "foxtail-pro"}
+{"example_id": "tkt-00477", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00477", "label": "FEATURE_REQUEST", "model": "bramble-x"}
+{"example_id": "tkt-00477", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00477", "label": "overcharge", "model": "dune-mini"}
+{"example_id": "tkt-00477", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00477", "label": "PAYMENT", "model": "foxtail-pro"}
+{"example_id": "tkt-00478", "label": "upgrade plan", "model": "aurora-70b"}
+{"example_id": "tkt-00478", "label": "delivery", "model": "bramble-x"}
+{"example_id": "tkt-00478", "label": "Subscription", "model": "cascade-2"}
+{"example_id": "tkt-00478", "label": "subscription", "model": "dune-mini"}
+{"example_id": "tkt-00478", "label": "package", "model": "ember-8x"}
+{"example_id": "tkt-00478", "label": "BILLING", "model": "foxtail-pro"}
+{"example_id": "tkt-00479", "label": "shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00479", "label": "shipping", "model": "bramble-x"}
+{"example_id": "tkt-00479", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00479", "label": "PAYMENT", "model": "dune-mini"}
+{"example_id": "tkt-00479", "label": "tracking", "model": "ember-8x"}
+{"example_id": "tkt-00480", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00480", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00480", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00480", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00480", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00480", "label": "billing issue", "model": "foxtail-pro"}
+{"example_id": "tkt-00481", "label": "shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00481", "label": "shipping", "model": "bramble-x"}
+{"example_id": "tkt-00481", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00481", "label": "shipping", "model": "dune-mini"}
+{"example_id": "tkt-00481", "label": "data_privacy", "model": "ember-8x"}
+{"example_id": "tkt-00481", "label": "package", "model": "foxtail-pro"}
+{"example_id": "tkt-00482", "label": "  account_access ", "model": "aurora-70b"}
+{"example_id": "tkt-00482", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00482", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00482", "label": "  account_access ", "model": "dune-mini"}
+{"example_id": "tkt-00482", "label": "account_access", "model": "ember-8x"}
+{"example_id": "tkt-00482", "label": "shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00483", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00483", "label": "  feature_request ", "model": "bramble-x"}
+{"example_id": "tkt-00483", "label": "BILLING", "model": "cascade-2"}
+{"example_id": "tkt-00483", "label": "subscription", "model": "dune-mini"}
+{"example_id": "tkt-00483", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00483", "label": "returns", "model": "foxtail-pro"}
+{"example_id": "tkt-00484", "label": "login-issue", "model": "aurora-70b"}
+{"example_id": "tkt-00484", "label": "feature_request", "model": "bramble-x"}
+{"example_id": "tkt-00484", "label": "suggestion", "model": "cascade-2"}
+{"example_id": "tkt-00484", "label": "TRACKING", "model": "dune-mini"}
+{"example_id": "tkt-00484", "label": "feature_idea", "model": "ember-8x"}
+{"example_id": "tkt-00485", "label": "technical_error", "model": "aurora-70b"}
+{"example_id": "tkt-00485", "label": "bug", "model": "bramble-x"}
+{"example_id": "tkt-00485", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00485", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00485", "label": "  crash ", "model": "ember-8x"}
+{"example_id": "tkt-00485", "label": "technical_error", "model": "foxtail-pro"}
+{"example_id": "tkt-00486", "label": "Product_Defect", "model": "aurora-70b"}
+{"example_id": "tkt-00486", "label": "shipping", "model": "bramble-x"}
+{"example_id": "tkt-00486", "label": "feature idea", "model": "cascade-2"}
+{"example_id": "tkt-00486", "label": "shipping", "model": "dune-mini"}
+{"example_id": "tkt-00486", "label": "shipping", "model": "ember-8x"}
+{"example_id": "tkt-00486", "label": "package", "model": "foxtail-pro"}
+{"example_id": "tkt-00487", "label": "Tracking", "model": "aurora-70b"}
+{"example_id": "tkt-00487", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00487", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00487", "label": "tracking", "model": "dune-mini"}
+{"example_id": "tkt-00487", "label": "sign-in", "model": "ember-8x"}
+{"example_id": "tkt-00487", "label": "Package", "model": "foxtail-pro"}
+{"example_id": "tkt-00488", "label": "feature_request", "model": "aurora-70b"}
+{"example_id": "tkt-00488", "label": "feature_request", "model": "bramble-x"}
+{"example_id": "tkt-00488", "label": "FEATURE_REQUEST", "model": "cascade-2"}
+{"example_id": "tkt-00488", "label": "feature_request", "model": "dune-mini"}
+{"example_id": "tkt-00488", "label": "account_access", "model": "ember-8x"}
+{"example_id": "tkt-00488", "label": "FEATURE_REQUEST", "model": "foxtail-pro"}
+{"example_id": "tkt-00489", "label": "  billing ", "model": "aurora-70b"}
+{"example_id": "tkt-00489", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00489", "label": "BILLING", "model": "cascade-2"}
+{"example_id": "tkt-00489", "label": "refund", "model": "dune-mini"}
+{"example_id": "tkt-00489", "label": "money_back", "model": "ember-8x"}
+{"example_id": "tkt-00489", "label": "billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00490", "label": "returns", "model": "aurora-70b"}
+{"example_id": "tkt-00490", "label": "returns", "model": "bramble-x"}
+{"example_id": "tkt-00490", "label": "return", "model": "cascade-2"}
+{"example_id": "tkt-00490", "label": "RETURN", "model": "dune-mini"}
+{"example_id": "tkt-00490", "label": "??", "model": "foxtail-pro"}
+{"example_id": "tkt-00491", "label": "signin", "model": "aurora-70b"}
+{"example_id": "tkt-00491", "label": "  feature_request ", "model": "bramble-x"}
+{"example_id": "tkt-00491", "label": "sign in", "model": "cascade-2"}
+{"example_id": "tkt-00491", "label": "Billing", "model": "dune-mini"}
+{"example_id": "tkt-00491", "label": "account_access", "model": "ember-8x"}
+{"example_id": "tkt-00491", "label": "login-issue", "model": "foxtail-pro"}
+{"example_id": "tkt-00492", "label": "returns", "model": "aurora-70b"}
+{"example_id": "tkt-00492", "label": "returns", "model": "bramble-x"}
+{"example_id": "tkt-00492", "label": "  returns ", "model": "cascade-2"}
+{"example_id": "tkt-00492", "label": "returns", "model": "dune-mini"}
+{"example_id": "tkt-00492", "label": "returns", "model": "ember-8x"}
+{"example_id": "tkt-00492", "label": "feature_idea", "model": "foxtail-pro"}
+{"example_id": "tkt-00493", "label": "  general_inquiry ", "model": "aurora-70b"}
+{"example_id": "tkt-00493", "label": "general_inquiry", "model": "bramble-x"}
+{"example_id": "tkt-00493", "label": "warranty", "model": "cascade-2"}
+{"example_id": "tkt-00493", "label": "Feature_Request", "model": "dune-mini"}
+{"example_id": "tkt-00493", "label": "general_inquiry", "model": "ember-8x"}
+{"example_id": "tkt-00494", "label": "tracking", "model": "aurora-70b"}
+{"example_id": "tkt-00494", "label": "GENERAL_INQUIRY", "model": "bramble-x"}
+{"example_id": "tkt-00494", "label": "general_inquiry", "model": "cascade-2"}
+{"example_id": "tkt-00494", "label": "question", "model": "dune-mini"}
+{"example_id": "tkt-00494", "label": "data_privacy", "model": "ember-8x"}
+{"example_id": "tkt-00494", "label": "Question", "model": "foxtail-pro"}
+{"example_id": "tkt-00495", "label": "overcharge", "model": "aurora-70b"}
+{"example_id": "tkt-00495", "label": "billing issue", "model": "bramble-x"}
+{"example_id": "tkt-00495", "label": "overcharge", "model": "cascade-2"}
+{"example_id": "tkt-00495", "label": "overcharge", "model": "dune-mini"}
+{"example_id": "tkt-00495", "label": "product_defect", "model": "ember-8x"}
+{"example_id": "tkt-00495", "label": "payment", "model": "foxtail-pro"}
+{"example_id": "tkt-00496", "label": "locked out", "model": "aurora-70b"}
+{"example_id": "tkt-00496", "label": "  account_access ", "model": "bramble-x"}
+{"example_id": "tkt-00496", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00496", "label": "ACCOUNT_ACCESS", "model": "dune-mini"}
+{"example_id": "tkt-00496", "label": "account_access", "model": "ember-8x"}
+{"example_id": "tkt-00496", "label": "product_defect", "model": "foxtail-pro"}
+{"example_id": "tkt-00497", "label": "delivery", "model": "aurora-70b"}
+{"example_id": "tkt-00497", "label": "delivery", "model": "bramble-x"}
+{"example_id": "tkt-00497", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00497", "label": "data_privacy", "model": "dune-mini"}
+{"example_id": "tkt-00497", "label": "  shipping ", "model": "ember-8x"}
+{"example_id": "tkt-00497", "label": "shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00498", "label": "defect", "model": "aurora-70b"}
+{"example_id": "tkt-00498", "label": "warranty", "model": "bramble-x"}
+{"example_id": "tkt-00498", "label": "  returns ", "model": "dune-mini"}
+{"example_id": "tkt-00498", "label": "subscription", "model": "ember-8x"}
+{"example_id": "tkt-00498", "label": "return", "model": "foxtail-pro"}
+{"example_id": "tkt-00499", "label": "tracking", "model": "aurora-70b"}
+{"example_id": "tkt-00499", "label": "SHIPPING", "model": "bramble-x"}
+{"example_id": "tkt-00499", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00499", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00499", "label": "delivery", "model": "ember-8x"}
+{"example_id": "tkt-00499", "label": "package", "model": "foxtail-pro"}
+{"example_id": "tkt-00500", "label": "invoice", "model": "aurora-70b"}
+{"example_id": "tkt-00500", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00500", "label": "billing issue", "model": "cascade-2"}
+{"example_id": "tkt-00500", "label": "BILLING", "model": "dune-mini"}
+{"example_id": "tkt-00500", "label": "data_privacy", "model": "ember-8x"}
+{"example_id": "tkt-00500", "label": "payment", "model": "foxtail-pro"}
+{"example_id": "tkt-00501", "label": "feature_request", "model": "aurora-70b"}
+{"example_id": "tkt-00501", "label": "invoice", "model": "bramble-x"}
+{"example_id": "tkt-00501", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00501", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00501", "label": "Billing", "model": "ember-8x"}
+{"example_id": "tkt-00501", "label": "data_privacy", "model": "foxtail-pro"}
+{"example_id": "tkt-00502", "label": "exchange", "model": "aurora-70b"}
+{"example_id": "tkt-00502", "label": "returns", "model": "bramble-x"}
+{"example_id": "tkt-00502", "label": "feature_request", "model": "cascade-2"}
+{"example_id": "tkt-00502", "label": "returns", "model": "dune-mini"}
+{"example_id": "tkt-00502", "label": "returns", "model": "ember-8x"}
+{"example_id": "tkt-00502", "label": "Return", "model": "foxtail-pro"}
+{"example_id": "tkt-00503", "label": "overcharge", "model": "aurora-70b"}
+{"example_id": "tkt-00503", "label": "Invoice", "model": "bramble-x"}
+{"example_id": "tkt-00503", "label": "Billing", "model": "cascade-2"}
+{"example_id": "tkt-00503", "label": "overcharge", "model": "dune-mini"}
+{"example_id": "tkt-00503", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00503", "label": "  technical_error ", "model": "foxtail-pro"}
+{"example_id": "tkt-00504", "label": "technical_error", "model": "aurora-70b"}
+{"example_id": "tkt-00504", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00504", "label": "CRASH", "model": "cascade-2"}
+{"example_id": "tkt-00504", "label": "question", "model": "dune-mini"}
+{"example_id": "tkt-00504", "label": "feature_idea", "model": "ember-8x"}
+{"example_id": "tkt-00504", "label": "crash", "model": "foxtail-pro"}
+{"example_id": "tkt-00505", "label": "shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00505", "label": "shipping", "model": "bramble-x"}
+{"example_id": "tkt-00505", "label": "SHIPPING", "model": "cascade-2"}
+{"example_id": "tkt-00505", "label": "refunds", "model": "dune-mini"}
+{"example_id": "tkt-00505", "label": "SHIPPING", "model": "ember-8x"}
+{"example_id": "tkt-00505", "label": "shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00506", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00506", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00506", "label": "Overcharge", "model": "cascade-2"}
+{"example_id": "tkt-00506", "label": "billing issue", "model": "dune-mini"}
+{"example_id": "tkt-00506", "label": "payment", "model": "ember-8x"}
+{"example_id": "tkt-00506", "label": "overcharge", "model": "foxtail-pro"}
+{"example_id": "tkt-00507", "label": "TECHNICAL_ERROR", "model": "aurora-70b"}
+{"example_id": "tkt-00507", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00507", "label": "crash", "model": "cascade-2"}
+{"example_id": "tkt-00507", "label": "delete my data", "model": "dune-mini"}
+{"example_id": "tkt-00507", "label": "bug", "model": "ember-8x"}
+{"example_id": "tkt-00507", "label": "error", "model": "foxtail-pro"}
+{"example_id": "tkt-00508", "label": "  delivery ", "model": "aurora-70b"}
+{"example_id": "tkt-00508", "label": "  shipping ", "model": "bramble-x"}
+{"example_id": "tkt-00508", "label": "SHIPPING", "model": "cascade-2"}
+{"example_id": "tkt-00508", "label": "  exchange ", "model": "dune-mini"}
+{"example_id": "tkt-00508", "label": "shipping", "model": "ember-8x"}
+{"example_id": "tkt-00508", "label": "shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00509", "label": "broken item", "model": "aurora-70b"}
+{"example_id": "tkt-00509", "label": "Broken Item", "model": "bramble-x"}
+{"example_id": "tkt-00509", "label": "  faulty ", "model": "cascade-2"}
+{"example_id": "tkt-00509", "label": "faulty", "model": "dune-mini"}
+{"example_id": "tkt-00509", "label": "faulty", "model": "ember-8x"}
+{"example_id": "tkt-00509", "label": "defect", "model": "foxtail-pro"}
+{"example_id": "tkt-00510", "label": "technical_error", "model": "aurora-70b"}
+{"example_id": "tkt-00510", "label": "defect", "model": "bramble-x"}
+{"example_id": "tkt-00510", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00510", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00510", "label": "  gdpr request ", "model": "ember-8x"}
+{"example_id": "tkt-00510", "label": "technical_error", "model": "foxtail-pro"}
+{"example_id": "tkt-00511", "label": "RETURNS", "model": "aurora-70b"}
+{"example_id": "tkt-00511", "label": "exchange", "model": "bramble-x"}
+{"example_id": "tkt-00511", "label": "  return ", "model": "cascade-2"}
+{"example_id": "tkt-00511", "label": "RETURNS", "model": "dune-mini"}
+{"example_id": "tkt-00511", "label": "Returns", "model": "ember-8x"}
+{"example_id": "tkt-00511", "label": "upgrade plan", "model": "foxtail-pro"}
+{"example_id": "tkt-00512", "label": "bug", "model": "aurora-70b"}
+{"example_id": "tkt-00512", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00512", "label": "error", "model": "cascade-2"}
+{"example_id": "tkt-00512", "label": "product_defect", "model": "dune-mini"}
+{"example_id": "tkt-00512", "label": "data_privacy", "model": "ember-8x"}
+{"example_id": "tkt-00512", "label": "TECHNICAL_ERROR", "model": "foxtail-pro"}
+{"example_id": "tkt-00513", "label": "upgrade plan", "model": "aurora-70b"}
+{"example_id": "tkt-00513", "label": "feature_request", "model": "bramble-x"}
+{"example_id": "tkt-00513", "label": "subscription", "model": "cascade-2"}
+{"example_id": "tkt-00513", "label": "  subscription ", "model": "dune-mini"}
+{"example_id": "tkt-00513", "label": "Subscription", "model": "ember-8x"}
+{"example_id": "tkt-00513", "label": "subscription", "model": "foxtail-pro"}
+{"example_id": "tkt-00514", "label": "returns", "model": "aurora-70b"}
+{"example_id": "tkt-00514", "label": "return", "model": "bramble-x"}
+{"example_id": "tkt-00514", "label": "returns", "model": "cascade-2"}
+{"example_id": "tkt-00514", "label": "returns", "model": "dune-mini"}
+{"example_id": "tkt-00514", "label": "returns", "model": "ember-8x"}
+{"example_id": "tkt-00514", "label": "exchange", "model": "foxtail-pro"}
+{"example_id": "tkt-00515", "label": "Returns", "model": "aurora-70b"}
+{"example_id": "tkt-00515", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00515", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00515", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00515", "label": "site_down", "model": "ember-8x"}
+{"example_id": "tkt-00515", "label": "site down", "model": "foxtail-pro"}
+{"example_id": "tkt-00516", "label": "product_defect", "model": "aurora-70b"}
+{"example_id": "tkt-00516", "label": "faulty", "model": "bramble-x"}
+{"example_id": "tkt-00516", "label": "feature_request", "model": "cascade-2"}
+{"example_id": "tkt-00516", "label": "product_defect", "model": "dune-mini"}
+{"example_id": "tkt-00516", "label": "general_inquiry", "model": "ember-8x"}
+{"example_id": "tkt-00516", "label": "product_defect", "model": "foxtail-pro"}
+{"example_id": "tkt-00517", "label": "payment", "model": "aurora-70b"}
+{"example_id": "tkt-00517", "label": "Billing Issue", "model": "bramble-x"}
+{"example_id": "tkt-00517", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00517", "label": "bug", "model": "dune-mini"}
+{"example_id": "tkt-00517", "label": "billing issue", "model": "ember-8x"}
+{"example_id": "tkt-00518", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00518", "label": "product_defect", "model": "bramble-x"}
+{"example_id": "tkt-00518", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00518", "label": "ACCOUNT_ACCESS", "model": "dune-mini"}
+{"example_id": "tkt-00518", "label": "locked out", "model": "ember-8x"}
+{"example_id": "tkt-00518", "label": "login issue", "model": "foxtail-pro"}
+{"example_id": "tkt-00519", "label": "n/a", "model": "aurora-70b"}
+{"example_id": "tkt-00519", "label": "data_privacy", "model": "bramble-x"}
+{"example_id": "tkt-00519", "label": "data_privacy", "model": "cascade-2"}
+{"example_id": "tkt-00519", "label": "data_privacy", "model": "dune-mini"}
+{"example_id": "tkt-00519", "label": "  data_privacy ", "model": "ember-8x"}
+{"example_id": "tkt-00519", "label": "data_privacy", "model": "foxtail-pro"}
+{"example_id": "tkt-00520", "label": "feature_request", "model": "aurora-70b"}
+{"example_id": "tkt-00520", "label": "feature_request", "model": "bramble-x"}
+{"example_id": "tkt-00520", "label": "feature_request", "model": "cascade-2"}
+{"example_id": "tkt-00520", "label": "feature_idea", "model": "dune-mini"}
+{"example_id": "tkt-00520", "label": "feature_request", "model": "ember-8x"}
+{"example_id": "tkt-00520", "label": "feature_request", "model": "foxtail-pro"}
+{"example_id": "tkt-00521", "label": "subscription", "model": "aurora-70b"}
+{"example_id": "tkt-00521", "label": "Downgrade", "model": "bramble-x"}
+{"example_id": "tkt-00521", "label": "SUBSCRIPTION", "model": "cascade-2"}
+{"example_id": "tkt-00521", "label": "  package ", "model": "dune-mini"}
+{"example_id": "tkt-00521", "label": "  suggestion ", "model": "ember-8x"}
+{"example_id": "tkt-00521", "label": "subscription", "model": "foxtail-pro"}
+{"example_id": "tkt-00522", "label": "shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00522", "label": "shipping", "model": "bramble-x"}
+{"example_id": "tkt-00522", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00522", "label": "SHIPPING", "model": "dune-mini"}
+{"example_id": "tkt-00522", "label": "Technical_Error", "model": "ember-8x"}
+{"example_id": "tkt-00522", "label": "shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00523", "label": "FEATURE_REQUEST", "model": "aurora-70b"}
+{"example_id": "tkt-00523", "label": "REFUND", "model": "bramble-x"}
+{"example_id": "tkt-00523", "label": "Refund", "model": "cascade-2"}
+{"example_id": "tkt-00523", "label": "Money Back", "model": "dune-mini"}
+{"example_id": "tkt-00523", "label": "refunds", "model": "ember-8x"}
+{"example_id": "tkt-00523", "label": "refund", "model": "foxtail-pro"}
+{"example_id": "tkt-00524", "label": "shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00524", "label": "shipping", "model": "bramble-x"}
+{"example_id": "tkt-00524", "label": "delivery", "model": "cascade-2"}
+{"example_id": "tkt-00524", "label": "Tracking", "model": "dune-mini"}
+{"example_id": "tkt-00524", "label": "delivery", "model": "ember-8x"}
+{"example_id": "tkt-00524", "label": "SHIPPING", "model": "foxtail-pro"}
+{"example_id": "tkt-00525", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00525", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00525", "label": "Locked Out", "model": "cascade-2"}
+{"example_id": "tkt-00525", "label": "  signin ", "model": "dune-mini"}
+{"example_id": "tkt-00525", "label": "tracking", "model": "ember-8x"}
+{"example_id": "tkt-00525", "label": "ACCOUNT_ACCESS", "model": "foxtail-pro"}
+{"example_id": "tkt-00526", "label": "refund", "model": "aurora-70b"}
+{"example_id": "tkt-00526", "label": "refunds", "model": "bramble-x"}
+{"example_id": "tkt-00526", "label": "refunds", "model": "cascade-2"}
+{"example_id": "tkt-00526", "label": "  refunds ", "model": "dune-mini"}
+{"example_id": "tkt-00526", "label": "money back", "model": "ember-8x"}
+{"example_id": "tkt-00526", "label": "refunds", "model": "foxtail-pro"}
+{"example_id": "tkt-00527", "label": "refund", "model": "aurora-70b"}
+{"example_id": "tkt-00527", "label": "Refunds", "model": "bramble-x"}
+{"example_id": "tkt-00527", "label": "refunds", "model": "cascade-2"}
+{"example_id": "tkt-00527", "label": "returns", "model": "dune-mini"}
+{"example_id": "tkt-00527", "label": "refunds", "model": "ember-8x"}
+{"example_id": "tkt-00527", "label": "refund", "model": "foxtail-pro"}
+{"example_id": "tkt-00528", "label": "Technical_Error", "model": "aurora-70b"}
+{"example_id": "tkt-00528", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00528", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00528", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00528", "label": "bug", "model": "ember-8x"}
+{"example_id": "tkt-00528", "label": "technical_error", "model": "foxtail-pro"}
+{"example_id": "tkt-00529", "label": "DELIVERY", "model": "aurora-70b"}
+{"example_id": "tkt-00529", "label": "delivery", "model": "bramble-x"}
+{"example_id": "tkt-00529", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00529", "label": "delivery", "model": "dune-mini"}
+{"example_id": "tkt-00529", "label": "delivery", "model": "ember-8x"}
+{"example_id": "tkt-00529", "label": "shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00530", "label": "Locked Out", "model": "aurora-70b"}
+{"example_id": "tkt-00530", "label": "ACCOUNT_ACCESS", "model": "bramble-x"}
+{"example_id": "tkt-00530", "label": "warranty", "model": "cascade-2"}
+{"example_id": "tkt-00530", "label": "account_access", "model": "dune-mini"}
+{"example_id": "tkt-00530", "label": "account_access", "model": "ember-8x"}
+{"example_id": "tkt-00530", "label": "broken item", "model": "foxtail-pro"}
+{"example_id": "tkt-00531", "label": "Product_Defect", "model": "aurora-70b"}
+{"example_id": "tkt-00531", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00531", "label": "feature idea", "model": "cascade-2"}
+{"example_id": "tkt-00531", "label": "product_defect", "model": "dune-mini"}
+{"example_id": "tkt-00531", "label": "  account_access ", "model": "ember-8x"}
+{"example_id": "tkt-00531", "label": "Billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00532", "label": "site down", "model": "aurora-70b"}
+{"example_id": "tkt-00532", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00532", "label": "locked out", "model": "cascade-2"}
+{"example_id": "tkt-00532", "label": "cancel_subscription", "model": "dune-mini"}
+{"example_id": "tkt-00532", "label": "shipping", "model": "ember-8x"}
+{"example_id": "tkt-00532", "label": "  account_access ", "model": "foxtail-pro"}
+{"example_id": "tkt-00533", "label": "CRASH", "model": "aurora-70b"}
+{"example_id": "tkt-00533", "label": "site down", "model": "bramble-x"}
+{"example_id": "tkt-00533", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00533", "label": "upgrade plan", "model": "dune-mini"}
+{"example_id": "tkt-00533", "label": "technical_error", "model": "ember-8x"}
+{"example_id": "tkt-00533", "label": "  error ", "model": "foxtail-pro"}
+{"example_id": "tkt-00534", "label": "delete my data", "model": "aurora-70b"}
+{"example_id": "tkt-00534", "label": "feature_request", "model": "bramble-x"}
+{"example_id": "tkt-00534", "label": "Shipping", "model": "cascade-2"}
+{"example_id": "tkt-00534", "label": "unsure", "model": "dune-mini"}
+{"example_id": "tkt-00534", "label": "Package", "model": "ember-8x"}
+{"example_id": "tkt-00534", "label": "  account_access ", "model": "foxtail-pro"}
+{"example_id": "tkt-00535", "label": "data_privacy", "model": "aurora-70b"}
+{"example_id": "tkt-00535", "label": "subscription", "model": "bramble-x"}
+{"example_id": "tkt-00535", "label": "data_privacy", "model": "cascade-2"}
+{"example_id": "tkt-00535", "label": "Data_Privacy", "model": "dune-mini"}
+{"example_id": "tkt-00535", "label": "data_privacy", "model": "ember-8x"}
+{"example_id": "tkt-00535", "label": "DATA_PRIVACY", "model": "foxtail-pro"}
+{"example_id": "tkt-00536", "label": "  delivery ", "model": "aurora-70b"}
+{"example_id": "tkt-00536", "label": "spam?", "model": "aurora-70b"}
+{"example_id": "tkt-00536", "label": "shipping", "model": "bramble-x"}
+{"example_id": "tkt-00536", "label": "package", "model": "cascade-2"}
+{"example_id": "tkt-00536", "label": "shipping", "model": "dune-mini"}
+{"example_id": "tkt-00536", "label": "feature_request", "model": "ember-8x"}
+{"example_id": "tkt-00536", "label": "Shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00537", "label": "product_defect", "model": "aurora-70b"}
+{"example_id": "tkt-00537", "label": "product_defect", "model": "bramble-x"}
+{"example_id": "tkt-00537", "label": "defect", "model": "cascade-2"}
+{"example_id": "tkt-00537", "label": "broken_item", "model": "dune-mini"}
+{"example_id": "tkt-00537", "label": "  broken item ", "model": "ember-8x"}
+{"example_id": "tkt-00537", "label": "Product_Defect", "model": "foxtail-pro"}
+{"example_id": "tkt-00538", "label": "Returns", "model": "aurora-70b"}
+{"example_id": "tkt-00538", "label": "exchange", "model": "bramble-x"}
+{"example_id": "tkt-00538", "label": "returns", "model": "cascade-2"}
+{"example_id": "tkt-00538", "label": "misc", "model": "cascade-2"}
+{"example_id": "tkt-00538", "label": "returns", "model": "dune-mini"}
+{"example_id": "tkt-00538", "label": "warranty", "model": "ember-8x"}
+{"example_id": "tkt-00538", "label": "returns", "model": "foxtail-pro"}
+{"example_id": "tkt-00539", "label": "technical_error", "model": "aurora-70b"}
+{"example_id": "tkt-00539", "label": "Technical_Error", "model": "bramble-x"}
+{"example_id": "tkt-00539", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00539", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00539", "label": "suggestion", "model": "ember-8x"}
+{"example_id": "tkt-00539", "label": "technical_error", "model": "foxtail-pro"}
+{"example_id": "tkt-00540", "label": "  subscription ", "model": "aurora-70b"}
+{"example_id": "tkt-00540", "label": "subscription", "model": "bramble-x"}
+{"example_id": "tkt-00540", "label": "upgrade_plan", "model": "cascade-2"}
+{"example_id": "tkt-00540", "label": "Feature_Request", "model": "dune-mini"}
+{"example_id": "tkt-00540", "label": "subscription", "model": "ember-8x"}
+{"example_id": "tkt-00540", "label": "feature idea", "model": "foxtail-pro"}
+{"example_id": "tkt-00541", "label": "shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00541", "label": "Account_Access", "model": "bramble-x"}
+{"example_id": "tkt-00541", "label": "  shipping ", "model": "cascade-2"}
+{"example_id": "tkt-00541", "label": "shipping", "model": "dune-mini"}
+{"example_id": "tkt-00541", "label": "product_defect", "model": "ember-8x"}
+{"example_id": "tkt-00541", "label": "BILLING", "model": "foxtail-pro"}
+{"example_id": "tkt-00542", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00542", "label": "sign in", "model": "bramble-x"}
+{"example_id": "tkt-00542", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00542", "label": "  sign in ", "model": "dune-mini"}
+{"example_id": "tkt-00542", "label": "account_access", "model": "ember-8x"}
+{"example_id": "tkt-00542", "label": "DELIVERY", "model": "foxtail-pro"}
+{"example_id": "tkt-00543", "label": "  general_inquiry ", "model": "aurora-70b"}
+{"example_id": "tkt-00543", "label": "money back", "model": "bramble-x"}
+{"example_id": "tkt-00543", "label": "general_inquiry", "model": "cascade-2"}
+{"example_id": "tkt-00543", "label": "Locked Out", "model": "dune-mini"}
+{"example_id": "tkt-00543", "label": "other", "model": "ember-8x"}
+{"example_id": "tkt-00543", "label": "general_inquiry", "model": "foxtail-pro"}
+{"example_id": "tkt-00544", "label": "  billing ", "model": "aurora-70b"}
+{"example_id": "tkt-00544", "label": "money_back", "model": "bramble-x"}
+{"example_id": "tkt-00544", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00544", "label": "return", "model": "dune-mini"}
+{"example_id": "tkt-00544", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00544", "label": "overcharge", "model": "foxtail-pro"}
+{"example_id": "tkt-00545", "label": "ACCOUNT_ACCESS", "model": "aurora-70b"}
+{"example_id": "tkt-00545", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00545", "label": "sign in", "model": "cascade-2"}
+{"example_id": "tkt-00545", "label": "warranty", "model": "dune-mini"}
+{"example_id": "tkt-00545", "label": "login issue", "model": "ember-8x"}
+{"example_id": "tkt-00545", "label": "locked out", "model": "foxtail-pro"}
+{"example_id": "tkt-00546", "label": "signin", "model": "aurora-70b"}
+{"example_id": "tkt-00546", "label": "Locked Out", "model": "bramble-x"}
+{"example_id": "tkt-00546", "label": "  signin ", "model": "cascade-2"}
+{"example_id": "tkt-00546", "label": "SHIPPING", "model": "dune-mini"}
+{"example_id": "tkt-00546", "label": "login_issue", "model": "ember-8x"}
+{"example_id": "tkt-00546", "label": "account_access", "model": "foxtail-pro"}
+{"example_id": "tkt-00547", "label": "package", "model": "aurora-70b"}
+{"example_id": "tkt-00547", "label": "shipping", "model": "bramble-x"}
+{"example_id": "tkt-00547", "label": "Shipping", "model": "cascade-2"}
+{"example_id": "tkt-00547", "label": "DATA_PRIVACY", "model": "dune-mini"}
+{"example_id": "tkt-00547", "label": "package", "model": "ember-8x"}
+{"example_id": "tkt-00547", "label": "shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00548", "label": "downgrade", "model": "aurora-70b"}
+{"example_id": "tkt-00548", "label": "subscription", "model": "bramble-x"}
+{"example_id": "tkt-00548", "label": "PRODUCT_DEFECT", "model": "cascade-2"}
+{"example_id": "tkt-00548", "label": "warranty", "model": "dune-mini"}
+{"example_id": "tkt-00548", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00548", "label": "SUBSCRIPTION", "model": "foxtail-pro"}
+{"example_id": "tkt-00549", "label": "shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00549", "label": "tracking", "model": "bramble-x"}
+{"example_id": "tkt-00549", "label": "tracking", "model": "cascade-2"}
+{"example_id": "tkt-00549", "label": "tracking", "model": "dune-mini"}
+{"example_id": "tkt-00549", "label": "shipping", "model": "ember-8x"}
+{"example_id": "tkt-00549", "label": "  shipping ", "model": "foxtail-pro"}
+{"example_id": "tkt-00550", "label": "  product_defect ", "model": "aurora-70b"}
+{"example_id": "tkt-00550", "label": "  product_defect ", "model": "bramble-x"}
+{"example_id": "tkt-00550", "label": "faulty", "model": "cascade-2"}
+{"example_id": "tkt-00550", "label": "exchange", "model": "dune-mini"}
+{"example_id": "tkt-00550", "label": "tracking", "model": "ember-8x"}
+{"example_id": "tkt-00550", "label": "PRODUCT_DEFECT", "model": "foxtail-pro"}
+{"example_id": "tkt-00551", "label": "tracking", "model": "aurora-70b"}
+{"example_id": "tkt-00551", "label": "invoice", "model": "bramble-x"}
+{"example_id": "tkt-00551", "label": "tracking", "model": "cascade-2"}
+{"example_id": "tkt-00551", "label": "shipping", "model": "dune-mini"}
+{"example_id": "tkt-00551", "label": "shipping", "model": "ember-8x"}
+{"example_id": "tkt-00551", "label": "warranty", "model": "foxtail-pro"}
+{"example_id": "tkt-00552", "label": "refunds", "model": "aurora-70b"}
+{"example_id": "tkt-00552", "label": "  refund ", "model": "bramble-x"}
+{"example_id": "tkt-00552", "label": "returns", "model": "cascade-2"}
+{"example_id": "tkt-00552", "label": "data_privacy", "model": "dune-mini"}
+{"example_id": "tkt-00552", "label": "data_privacy", "model": "ember-8x"}
+{"example_id": "tkt-00552", "label": "billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00553", "label": "technical_error", "model": "aurora-70b"}
+{"example_id": "tkt-00553", "label": "feature_request", "model": "bramble-x"}
+{"example_id": "tkt-00553", "label": "Technical_Error", "model": "cascade-2"}
+{"example_id": "tkt-00553", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00553", "label": "refunds", "model": "ember-8x"}
+{"example_id": "tkt-00553", "label": "Technical_Error", "model": "foxtail-pro"}
+{"example_id": "tkt-00554", "label": "site down", "model": "aurora-70b"}
+{"example_id": "tkt-00554", "label": "REFUND", "model": "bramble-x"}
+{"example_id": "tkt-00554", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00554", "label": "TECHNICAL_ERROR", "model": "dune-mini"}
+{"example_id": "tkt-00554", "label": "error", "model": "ember-8x"}
+{"example_id": "tkt-00554", "label": "technical_error", "model": "foxtail-pro"}
+{"example_id": "tkt-00555", "label": "money back", "model": "aurora-70b"}
+{"example_id": "tkt-00555", "label": "refunds", "model": "bramble-x"}
+{"example_id": "tkt-00555", "label": "money back", "model": "cascade-2"}
+{"example_id": "tkt-00555", "label": "money_back", "model": "dune-mini"}
+{"example_id": "tkt-00555", "label": "refunds", "model": "ember-8x"}
+{"example_id": "tkt-00555", "label": "refund", "model": "foxtail-pro"}
+{"example_id": "tkt-00556", "label": "Locked Out", "model": "bramble-x"}
+{"example_id": "tkt-00556", "label": "  account_access ", "model": "cascade-2"}
+{"example_id": "tkt-00556", "label": "returns", "model": "dune-mini"}
+{"example_id": "tkt-00556", "label": "guarantee", "model": "ember-8x"}
+{"example_id": "tkt-00556", "label": "delete-my-data", "model": "foxtail-pro"}
+{"example_id": "tkt-00557", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00557", "label": "Billing", "model": "bramble-x"}
+{"example_id": "tkt-00557", "label": "INVOICE", "model": "cascade-2"}
+{"example_id": "tkt-00557", "label": "  downgrade ", "model": "dune-mini"}
+{"example_id": "tkt-00557", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00557", "label": "billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00558", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00558", "label": "Account_Access", "model": "bramble-x"}
+{"example_id": "tkt-00558", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00558", "label": "sign in", "model": "dune-mini"}
+{"example_id": "tkt-00558", "label": "Shipping", "model": "ember-8x"}
+{"example_id": "tkt-00558", "label": "account_access", "model": "foxtail-pro"}
+{"example_id": "tkt-00559", "label": "refunds", "model": "aurora-70b"}
+{"example_id": "tkt-00559", "label": "refunds", "model": "bramble-x"}
+{"example_id": "tkt-00559", "label": "refunds", "model": "cascade-2"}
+{"example_id": "tkt-00559", "label": "REFUNDS", "model": "ember-8x"}
+{"example_id": "tkt-00559", "label": "refund", "model": "foxtail-pro"}
+{"example_id": "tkt-00560", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00560", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00560", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00560", "label": "  overcharge ", "model": "dune-mini"}
+{"example_id": "tkt-00560", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00560", "label": "OVERCHARGE", "model": "foxtail-pro"}
+{"example_id": "tkt-00561", "label": "refunds", "model": "aurora-70b"}
+{"example_id": "tkt-00561", "label": "Refund", "model": "bramble-x"}
+{"example_id": "tkt-00561", "label": "refunds", "model": "cascade-2"}
+{"example_id": "tkt-00561", "label": "refund", "model": "dune-mini"}
+{"example_id": "tkt-00561", "label": "refunds", "model": "foxtail-pro"}
+{"example_id": "tkt-00562", "label": "PACKAGE", "model": "aurora-70b"}
+{"example_id": "tkt-00562", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00562", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00562", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00562", "label": "Returns", "model": "ember-8x"}
+{"example_id": "tkt-00562", "label": "  privacy ", "model": "foxtail-pro"}
+{"example_id": "tkt-00563", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00563", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00563", "label": "spam?", "model": "cascade-2"}
+{"example_id": "tkt-00563", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00563", "label": "billing issue", "model": "ember-8x"}
+{"example_id": "tkt-00563", "label": "upgrade plan", "model": "foxtail-pro"}
+{"example_id": "tkt-00564", "label": "shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00564", "label": "shipping", "model": "bramble-x"}
+{"example_id": "tkt-00564", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00564", "label": "Shipping", "model": "dune-mini"}
+{"example_id": "tkt-00564", "label": "shipping", "model": "ember-8x"}
+{"example_id": "tkt-00564", "label": "delivery", "model": "foxtail-pro"}
+{"example_id": "tkt-00565", "label": "delivery", "model": "aurora-70b"}
+{"example_id": "tkt-00565", "label": "package", "model": "bramble-x"}
+{"example_id": "tkt-00565", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00565", "label": "package", "model": "dune-mini"}
+{"example_id": "tkt-00565", "label": "GUARANTEE", "model": "ember-8x"}
+{"example_id": "tkt-00565", "label": "shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00566", "label": "  guarantee ", "model": "bramble-x"}
+{"example_id": "tkt-00566", "label": "returns", "model": "cascade-2"}
+{"example_id": "tkt-00566", "label": "exchange", "model": "dune-mini"}
+{"example_id": "tkt-00566", "label": "subscription", "model": "ember-8x"}
+{"example_id": "tkt-00566", "label": "returns", "model": "foxtail-pro"}
+{"example_id": "tkt-00567", "label": "technical_error", "model": "aurora-70b"}
+{"example_id": "tkt-00567", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00567", "label": "  technical_error ", "model": "cascade-2"}
+{"example_id": "tkt-00567", "label": "data_privacy", "model": "dune-mini"}
+{"example_id": "tkt-00567", "label": "error", "model": "ember-8x"}
+{"example_id": "tkt-00567", "label": "Technical_Error", "model": "foxtail-pro"}
+{"example_id": "tkt-00568", "label": "SIGNIN", "model": "aurora-70b"}
+{"example_id": "tkt-00568", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00568", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00568", "label": "exchange", "model": "dune-mini"}
+{"example_id": "tkt-00568", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00568", "label": "locked out", "model": "foxtail-pro"}
+{"example_id": "tkt-00569", "label": "Feature_Request", "model": "aurora-70b"}
+{"example_id": "tkt-00569", "label": "feature_request", "model": "bramble-x"}
+{"example_id": "tkt-00569", "label": "feature_request", "model": "cascade-2"}
+{"example_id": "tkt-00569", "label": "BILLING", "model": "dune-mini"}
+{"example_id": "tkt-00569", "label": "account_access", "model": "ember-8x"}
+{"example_id": "tkt-00569", "label": "feature_request", "model": "foxtail-pro"}
+{"example_id": "tkt-00570", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00570", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00570", "label": "sign in", "model": "cascade-2"}
+{"example_id": "tkt-00570", "label": "Account_Access", "model": "dune-mini"}
+{"example_id": "tkt-00570", "label": "  account_access ", "model": "ember-8x"}
+{"example_id": "tkt-00570", "label": "Question", "model": "foxtail-pro"}
+{"example_id": "tkt-00571", "label": "returns", "model": "bramble-x"}
+{"example_id": "tkt-00571", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00571", "label": "subscription", "model": "dune-mini"}
+{"example_id": "tkt-00571", "label": "data_privacy", "model": "ember-8x"}
+{"example_id": "tkt-00571", "label": "returns", "model": "foxtail-pro"}
+{"example_id": "tkt-00572", "label": "refunds", "model": "aurora-70b"}
+{"example_id": "tkt-00572", "label": "refunds", "model": "bramble-x"}
+{"example_id": "tkt-00572", "label": "Refunds", "model": "cascade-2"}
+{"example_id": "tkt-00572", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00572", "label": "refunds", "model": "ember-8x"}
+{"example_id": "tkt-00572", "label": "REFUNDS", "model": "foxtail-pro"}
+{"example_id": "tkt-00573", "label": "general_inquiry", "model": "aurora-70b"}
+{"example_id": "tkt-00573", "label": "  technical_error ", "model": "bramble-x"}
+{"example_id": "tkt-00573", "label": "Error", "model": "cascade-2"}
+{"example_id": "tkt-00573", "label": "feature_request", "model": "dune-mini"}
+{"example_id": "tkt-00573", "label": "technical_error", "model": "ember-8x"}
+{"example_id": "tkt-00573", "label": "technical_error", "model": "foxtail-pro"}
+{"example_id": "tkt-00574", "label": "refunds", "model": "aurora-70b"}
+{"example_id": "tkt-00574", "label": "  money back ", "model": "bramble-x"}
+{"example_id": "tkt-00574", "label": "refunds", "model": "cascade-2"}
+{"example_id": "tkt-00574", "label": "refunds", "model": "dune-mini"}
+{"example_id": "tkt-00574", "label": "Refunds", "model": "ember-8x"}
+{"example_id": "tkt-00574", "label": "  refund ", "model": "foxtail-pro"}
+{"example_id": "tkt-00575", "label": "DATA_PRIVACY", "model": "aurora-70b"}
+{"example_id": "tkt-00575", "label": "data_privacy", "model": "bramble-x"}
+{"example_id": "tkt-00575", "label": "privacy", "model": "cascade-2"}
+{"example_id": "tkt-00575", "label": "downgrade", "model": "dune-mini"}
+{"example_id": "tkt-00575", "label": "product_defect", "model": "ember-8x"}
+{"example_id": "tkt-00575", "label": "refunds", "model": "foxtail-pro"}
+{"example_id": "tkt-00576", "label": "  general_inquiry ", "model": "aurora-70b"}
+{"example_id": "tkt-00576", "label": "general_inquiry", "model": "bramble-x"}
+{"example_id": "tkt-00576", "label": "other", "model": "cascade-2"}
+{"example_id": "tkt-00576", "label": "other", "model": "dune-mini"}
+{"example_id": "tkt-00576", "label": "general_inquiry", "model": "ember-8x"}
+{"example_id": "tkt-00576", "label": "RETURNS", "model": "foxtail-pro"}
+{"example_id": "tkt-00577", "label": "tracking", "model": "aurora-70b"}
+{"example_id": "tkt-00577", "label": "subscription", "model": "bramble-x"}
+{"example_id": "tkt-00577", "label": "PACKAGE", "model": "cascade-2"}
+{"example_id": "tkt-00577", "label": "warranty", "model": "dune-mini"}
+{"example_id": "tkt-00577", "label": "shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00578", "label": "Warranty", "model": "aurora-70b"}
+{"example_id": "tkt-00578", "label": "guarantee", "model": "bramble-x"}
+{"example_id": "tkt-00578", "label": "guarantee", "model": "cascade-2"}
+{"example_id": "tkt-00578", "label": "WARRANTY", "model": "dune-mini"}
+{"example_id": "tkt-00578", "label": "gdpr request", "model": "ember-8x"}
+{"example_id": "tkt-00578", "label": "WARRANTY", "model": "foxtail-pro"}
+{"example_id": "tkt-00579", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00579", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00579", "label": "Sign In", "model": "cascade-2"}
+{"example_id": "tkt-00579", "label": "sign in", "model": "dune-mini"}
+{"example_id": "tkt-00579", "label": "account_access", "model": "ember-8x"}
+{"example_id": "tkt-00579", "label": "  refunds ", "model": "foxtail-pro"}
+{"example_id": "tkt-00580", "label": "refunds", "model": "aurora-70b"}
+{"example_id": "tkt-00580", "label": "returns", "model": "bramble-x"}
+{"example_id": "tkt-00580", "label": "money back", "model": "cascade-2"}
+{"example_id": "tkt-00580", "label": "SHIPPING", "model": "dune-mini"}
+{"example_id": "tkt-00580", "label": "  refund ", "model": "ember-8x"}
+{"example_id": "tkt-00580", "label": "general_inquiry", "model": "foxtail-pro"}
+{"example_id": "tkt-00581", "label": "data_privacy", "model": "aurora-70b"}
+{"example_id": "tkt-00581", "label": "downgrade", "model": "bramble-x"}
+{"example_id": "tkt-00581", "label": "subscription", "model": "cascade-2"}
+{"example_id": "tkt-00581", "label": "Account_Access", "model": "dune-mini"}
+{"example_id": "tkt-00581", "label": "subscription", "model": "ember-8x"}
+{"example_id": "tkt-00581", "label": "downgrade", "model": "foxtail-pro"}
+{"example_id": "tkt-00582", "label": "BILLING", "model": "aurora-70b"}
+{"example_id": "tkt-00582", "label": "refunds", "model": "bramble-x"}
+{"example_id": "tkt-00582", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00582", "label": "billing issue", "model": "dune-mini"}
+{"example_id": "tkt-00582", "label": "upgrade_plan", "model": "ember-8x"}
+{"example_id": "tkt-00582", "label": "  billing ", "model": "foxtail-pro"}
+{"example_id": "tkt-00583", "label": "tracking", "model": "aurora-70b"}
+{"example_id": "tkt-00583", "label": "shipping", "model": "bramble-x"}
+{"example_id": "tkt-00583", "label": "package", "model": "cascade-2"}
+{"example_id": "tkt-00583", "label": "Shipping", "model": "dune-mini"}
+{"example_id": "tkt-00583", "label": "shipping", "model": "ember-8x"}
+{"example_id": "tkt-00583", "label": "Subscription", "model": "foxtail-pro"}
+{"example_id": "tkt-00584", "label": "shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00584", "label": "package", "model": "bramble-x"}
+{"example_id": "tkt-00584", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00584", "label": "shipping", "model": "dune-mini"}
+{"example_id": "tkt-00584", "label": "DOWNGRADE", "model": "ember-8x"}
+{"example_id": "tkt-00584", "label": "feature_request", "model": "foxtail-pro"}
+{"example_id": "tkt-00585", "label": "signin", "model": "aurora-70b"}
+{"example_id": "tkt-00585", "label": "locked out", "model": "bramble-x"}
+{"example_id": "tkt-00585", "label": "  account_access ", "model": "cascade-2"}
+{"example_id": "tkt-00585", "label": "Shipping", "model": "dune-mini"}
+{"example_id": "tkt-00585", "label": "account_access", "model": "ember-8x"}
+{"example_id": "tkt-00585", "label": "product_defect", "model": "foxtail-pro"}
+{"example_id": "tkt-00586", "label": "site down", "model": "aurora-70b"}
+{"example_id": "tkt-00586", "label": "error", "model": "bramble-x"}
+{"example_id": "tkt-00586", "label": "  technical_error ", "model": "cascade-2"}
+{"example_id": "tkt-00586", "label": "cancel subscription", "model": "dune-mini"}
+{"example_id": "tkt-00586", "label": "technical_error", "model": "ember-8x"}
+{"example_id": "tkt-00586", "label": "BUG", "model": "foxtail-pro"}
+{"example_id": "tkt-00587", "label": "site_down", "model": "aurora-70b"}
+{"example_id": "tkt-00587", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00587", "label": "Error", "model": "cascade-2"}
+{"example_id": "tkt-00587", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00587", "label": "defect", "model": "ember-8x"}
+{"example_id": "tkt-00587", "label": "site down", "model": "foxtail-pro"}
+{"example_id": "tkt-00588", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00588", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00588", "label": "ERROR", "model": "dune-mini"}
+{"example_id": "tkt-00588", "label": "error", "model": "foxtail-pro"}
+{"example_id": "tkt-00589", "label": "Shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00589", "label": "misc", "model": "aurora-70b"}
+{"example_id": "tkt-00589", "label": "REFUND", "model": "bramble-x"}
+{"example_id": "tkt-00589", "label": "data_privacy", "model": "cascade-2"}
+{"example_id": "tkt-00589", "label": "refunds", "model": "dune-mini"}
+{"example_id": "tkt-00589", "label": "  overcharge ", "model": "ember-8x"}
+{"example_id": "tkt-00589", "label": "REFUNDS", "model": "foxtail-pro"}
+{"example_id": "tkt-00590", "label": "tracking", "model": "aurora-70b"}
+{"example_id": "tkt-00590", "label": "Other", "model": "bramble-x"}
+{"example_id": "tkt-00590", "label": "  package ", "model": "cascade-2"}
+{"example_id": "tkt-00590", "label": "package", "model": "dune-mini"}
+{"example_id": "tkt-00590", "label": "billing issue", "model": "ember-8x"}
+{"example_id": "tkt-00590", "label": "locked out", "model": "foxtail-pro"}
+{"example_id": "tkt-00591", "label": "signin", "model": "aurora-70b"}
+{"example_id": "tkt-00591", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00591", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00591", "label": "sign_in", "model": "dune-mini"}
+{"example_id": "tkt-00591", "label": "ACCOUNT_ACCESS", "model": "ember-8x"}
+{"example_id": "tkt-00591", "label": "Signin", "model": "foxtail-pro"}
+{"example_id": "tkt-00592", "label": "technical_error", "model": "aurora-70b"}
+{"example_id": "tkt-00592", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00592", "label": "bug", "model": "cascade-2"}
+{"example_id": "tkt-00592", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00592", "label": "other", "model": "ember-8x"}
+{"example_id": "tkt-00592", "label": "technical_error", "model": "foxtail-pro"}
+{"example_id": "tkt-00593", "label": "ACCOUNT_ACCESS", "model": "aurora-70b"}
+{"example_id": "tkt-00593", "label": "ACCOUNT_ACCESS", "model": "bramble-x"}
+{"example_id": "tkt-00593", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00593", "label": "locked out", "model": "dune-mini"}
+{"example_id": "tkt-00593", "label": "ACCOUNT_ACCESS", "model": "ember-8x"}
+{"example_id": "tkt-00593", "label": "escalate", "model": "foxtail-pro"}
+{"example_id": "tkt-00594", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00594", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00594", "label": "invoice", "model": "cascade-2"}
+{"example_id": "tkt-00594", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00594", "label": "BILLING", "model": "ember-8x"}
+{"example_id": "tkt-00594", "label": "BILLING", "model": "foxtail-pro"}
+{"example_id": "tkt-00595", "label": "Refunds", "model": "aurora-70b"}
+{"example_id": "tkt-00595", "label": "question", "model": "bramble-x"}
+{"example_id": "tkt-00595", "label": "REFUNDS", "model": "cascade-2"}
+{"example_id": "tkt-00595", "label": "faulty", "model": "dune-mini"}
+{"example_id": "tkt-00595", "label": "PRODUCT_DEFECT", "model": "ember-8x"}
+{"example_id": "tkt-00595", "label": "subscription", "model": "foxtail-pro"}
+{"example_id": "tkt-00596", "label": "sign-in", "model": "aurora-70b"}
+{"example_id": "tkt-00596", "label": "Account_Access", "model": "bramble-x"}
+{"example_id": "tkt-00596", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00596", "label": "sign in", "model": "dune-mini"}
+{"example_id": "tkt-00596", "label": "account_access", "model": "ember-8x"}
+{"example_id": "tkt-00596", "label": "account_access", "model": "foxtail-pro"}
+{"example_id": "tkt-00597", "label": "refunds", "model": "aurora-70b"}
+{"example_id": "tkt-00597", "label": "refunds", "model": "bramble-x"}
+{"example_id": "tkt-00597", "label": "Refunds", "model": "cascade-2"}
+{"example_id": "tkt-00597", "label": "refunds", "model": "ember-8x"}
+{"example_id": "tkt-00597", "label": "refunds", "model": "foxtail-pro"}
+{"example_id": "tkt-00598", "label": "refund", "model": "aurora-70b"}
+{"example_id": "tkt-00598", "label": "refunds", "model": "bramble-x"}
+{"example_id": "tkt-00598", "label": "feature_request", "model": "cascade-2"}
+{"example_id": "tkt-00598", "label": "REFUNDS", "model": "dune-mini"}
+{"example_id": "tkt-00598", "label": "refunds", "model": "ember-8x"}
+{"example_id": "tkt-00598", "label": "Data_Privacy", "model": "foxtail-pro"}
+{"example_id": "tkt-00599", "label": "  warranty ", "model": "aurora-70b"}
+{"example_id": "tkt-00599", "label": "Warranty", "model": "bramble-x"}
+{"example_id": "tkt-00599", "label": "warranty", "model": "cascade-2"}
+{"example_id": "tkt-00599", "label": "warranty", "model": "dune-mini"}
+{"example_id": "tkt-00599", "label": "GUARANTEE", "model": "ember-8x"}
+{"example_id": "tkt-00599", "label": "guarantee", "model": "foxtail-pro"}
+{"example_id": "tkt-00600", "label": "billing issue", "model": "aurora-70b"}
+{"example_id": "tkt-00600", "label": "Billing", "model": "bramble-x"}
+{"example_id": "tkt-00600", "label": "escalate", "model": "cascade-2"}
+{"example_id": "tkt-00600", "label": "BILLING", "model": "dune-mini"}
+{"example_id": "tkt-00600", "label": "returns", "model": "ember-8x"}
+{"example_id": "tkt-00600", "label": "BILLING", "model": "foxtail-pro"}
+{"example_id": "tkt-00601", "label": "general_inquiry", "model": "aurora-70b"}
+{"example_id": "tkt-00601", "label": "Refunds", "model": "bramble-x"}
+{"example_id": "tkt-00601", "label": "  other ", "model": "cascade-2"}
+{"example_id": "tkt-00601", "label": "general_inquiry", "model": "dune-mini"}
+{"example_id": "tkt-00601", "label": "RETURNS", "model": "ember-8x"}
+{"example_id": "tkt-00601", "label": "general_inquiry", "model": "foxtail-pro"}
+{"example_id": "tkt-00602", "label": "product_defect", "model": "aurora-70b"}
+{"example_id": "tkt-00602", "label": "BILLING", "model": "bramble-x"}
+{"example_id": "tkt-00602", "label": "  product_defect ", "model": "cascade-2"}
+{"example_id": "tkt-00602", "label": "product_defect", "model": "dune-mini"}
+{"example_id": "tkt-00602", "label": "return", "model": "ember-8x"}
+{"example_id": "tkt-00602", "label": "defect", "model": "foxtail-pro"}
+{"example_id": "tkt-00603", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00603", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00603", "label": "BILLING", "model": "cascade-2"}
+{"example_id": "tkt-00603", "label": "overcharge", "model": "dune-mini"}
+{"example_id": "tkt-00603", "label": "  billing ", "model": "ember-8x"}
+{"example_id": "tkt-00603", "label": "billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00604", "label": "  technical_error ", "model": "aurora-70b"}
+{"example_id": "tkt-00604", "label": "bug", "model": "bramble-x"}
+{"example_id": "tkt-00604", "label": "  technical_error ", "model": "cascade-2"}
+{"example_id": "tkt-00604", "label": "  crash ", "model": "dune-mini"}
+{"example_id": "tkt-00604", "label": "site down", "model": "ember-8x"}
+{"example_id": "tkt-00604", "label": "technical_error", "model": "foxtail-pro"}
+{"example_id": "tkt-00605", "label": "BILLING", "model": "aurora-70b"}
+{"example_id": "tkt-00605", "label": "Invoice", "model": "bramble-x"}
+{"example_id": "tkt-00605", "label": "??", "model": "cascade-2"}
+{"example_id": "tkt-00605", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00605", "label": "BILLING", "model": "foxtail-pro"}
+{"example_id": "tkt-00606", "label": "crash", "model": "aurora-70b"}
+{"example_id": "tkt-00606", "label": "unsure", "model": "aurora-70b"}
+{"example_id": "tkt-00606", "label": "crash", "model": "bramble-x"}
+{"example_id": "tkt-00606", "label": "??", "model": "cascade-2"}
+{"example_id": "tkt-00606", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00606", "label": "signin", "model": "ember-8x"}
+{"example_id": "tkt-00606", "label": "crash", "model": "foxtail-pro"}
+{"example_id": "tkt-00607", "label": "product_defect", "model": "aurora-70b"}
+{"example_id": "tkt-00607", "label": "  exchange ", "model": "bramble-x"}
+{"example_id": "tkt-00607", "label": "product_defect", "model": "cascade-2"}
+{"example_id": "tkt-00607", "label": "Subscription", "model": "dune-mini"}
+{"example_id": "tkt-00607", "label": "subscription", "model": "ember-8x"}
+{"example_id": "tkt-00607", "label": "refund", "model": "foxtail-pro"}
+{"example_id": "tkt-00608", "label": "Returns", "model": "aurora-70b"}
+{"example_id": "tkt-00608", "label": "refunds", "model": "bramble-x"}
+{"example_id": "tkt-00608", "label": "returns", "model": "cascade-2"}
+{"example_id": "tkt-00608", "label": "Exchange", "model": "dune-mini"}
+{"example_id": "tkt-00608", "label": "returns", "model": "ember-8x"}
+{"example_id": "tkt-00608", "label": "returns", "model": "foxtail-pro"}
+{"example_id": "tkt-00609", "label": "subscription", "model": "aurora-70b"}
+{"example_id": "tkt-00609", "label": "refunds", "model": "bramble-x"}
+{"example_id": "tkt-00609", "label": "Guarantee", "model": "cascade-2"}
+{"example_id": "tkt-00609", "label": "REFUNDS", "model": "dune-mini"}
+{"example_id": "tkt-00609", "label": "refunds", "model": "ember-8x"}
+{"example_id": "tkt-00609", "label": "refunds", "model": "foxtail-pro"}
+{"example_id": "tkt-00610", "label": "BILLING", "model": "aurora-70b"}
+{"example_id": "tkt-00610", "label": "Billing", "model": "bramble-x"}
+{"example_id": "tkt-00610", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00610", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00610", "label": "returns", "model": "ember-8x"}
+{"example_id": "tkt-00610", "label": "feature_request", "model": "foxtail-pro"}
+{"example_id": "tkt-00611", "label": "product_defect", "model": "aurora-70b"}
+{"example_id": "tkt-00611", "label": "TECHNICAL_ERROR", "model": "bramble-x"}
+{"example_id": "tkt-00611", "label": "ACCOUNT_ACCESS", "model": "cascade-2"}
+{"example_id": "tkt-00611", "label": "refunds", "model": "dune-mini"}
+{"example_id": "tkt-00611", "label": "broken item", "model": "ember-8x"}
+{"example_id": "tkt-00611", "label": "product_defect", "model": "foxtail-pro"}
+{"example_id": "tkt-00612", "label": "general_inquiry", "model": "aurora-70b"}
+{"example_id": "tkt-00612", "label": "GENERAL_INQUIRY", "model": "bramble-x"}
+{"example_id": "tkt-00612", "label": "other", "model": "cascade-2"}
+{"example_id": "tkt-00612", "label": "general_inquiry", "model": "dune-mini"}
+{"example_id": "tkt-00612", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00612", "label": "general_inquiry", "model": "foxtail-pro"}
+{"example_id": "tkt-00613", "label": "other", "model": "aurora-70b"}
+{"example_id": "tkt-00613", "label": "question", "model": "bramble-x"}
+{"example_id": "tkt-00613", "label": "GENERAL_INQUIRY", "model": "cascade-2"}
+{"example_id": "tkt-00613", "label": "QUESTION", "model": "dune-mini"}
+{"example_id": "tkt-00613", "label": "other", "model": "ember-8x"}
+{"example_id": "tkt-00613", "label": "General_Inquiry", "model": "foxtail-pro"}
+{"example_id": "tkt-00614", "label": "ACCOUNT_ACCESS", "model": "aurora-70b"}
+{"example_id": "tkt-00614", "label": "SHIPPING", "model": "bramble-x"}
+{"example_id": "tkt-00614", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00614", "label": "account_access", "model": "dune-mini"}
+{"example_id": "tkt-00614", "label": "Account_Access", "model": "ember-8x"}
+{"example_id": "tkt-00614", "label": "technical_error", "model": "foxtail-pro"}
+{"example_id": "tkt-00615", "label": "money back", "model": "aurora-70b"}
+{"example_id": "tkt-00615", "label": "refunds", "model": "bramble-x"}
+{"example_id": "tkt-00615", "label": "refund", "model": "cascade-2"}
+{"example_id": "tkt-00615", "label": "subscription", "model": "dune-mini"}
+{"example_id": "tkt-00615", "label": "refunds", "model": "ember-8x"}
+{"example_id": "tkt-00615", "label": "data_privacy", "model": "foxtail-pro"}
+{"example_id": "tkt-00616", "label": "feature_request", "model": "aurora-70b"}
+{"example_id": "tkt-00616", "label": "locked_out", "model": "bramble-x"}
+{"example_id": "tkt-00616", "label": "SIGNIN", "model": "cascade-2"}
+{"example_id": "tkt-00616", "label": "ACCOUNT_ACCESS", "model": "dune-mini"}
+{"example_id": "tkt-00616", "label": "account_access", "model": "ember-8x"}
+{"example_id": "tkt-00616", "label": "billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00617", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00617", "label": "subscription", "model": "bramble-x"}
+{"example_id": "tkt-00617", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00617", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00617", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00617", "label": "billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00618", "label": "warranty", "model": "aurora-70b"}
+{"example_id": "tkt-00618", "label": "product_defect", "model": "bramble-x"}
+{"example_id": "tkt-00618", "label": "PRODUCT_DEFECT", "model": "cascade-2"}
+{"example_id": "tkt-00618", "label": "broken item", "model": "dune-mini"}
+{"example_id": "tkt-00618", "label": "  product_defect ", "model": "ember-8x"}
+{"example_id": "tkt-00618", "label": "General_Inquiry", "model": "foxtail-pro"}
+{"example_id": "tkt-00619", "label": "REFUNDS", "model": "aurora-70b"}
+{"example_id": "tkt-00619", "label": "refunds", "model": "bramble-x"}
+{"example_id": "tkt-00619", "label": "Refund", "model": "cascade-2"}
+{"example_id": "tkt-00619", "label": "refund", "model": "dune-mini"}
+{"example_id": "tkt-00619", "label": "REFUNDS", "model": "ember-8x"}
+{"example_id": "tkt-00619", "label": "refund", "model": "foxtail-pro"}
+{"example_id": "tkt-00620", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00620", "label": "refunds", "model": "bramble-x"}
+{"example_id": "tkt-00620", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00620", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00620", "label": "billing issue", "model": "ember-8x"}
+{"example_id": "tkt-00620", "label": "billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00621", "label": "invoice", "model": "aurora-70b"}
+{"example_id": "tkt-00621", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00621", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00621", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00621", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00621", "label": "billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00622", "label": "locked out", "model": "aurora-70b"}
+{"example_id": "tkt-00622", "label": "sign in", "model": "bramble-x"}
+{"example_id": "tkt-00622", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00622", "label": "account_access", "model": "dune-mini"}
+{"example_id": "tkt-00622", "label": "account_access", "model": "ember-8x"}
+{"example_id": "tkt-00622", "label": "signin", "model": "foxtail-pro"}
+{"example_id": "tkt-00623", "label": "return", "model": "aurora-70b"}
+{"example_id": "tkt-00623", "label": "returns", "model": "bramble-x"}
+{"example_id": "tkt-00623", "label": "return", "model": "cascade-2"}
+{"example_id": "tkt-00623", "label": "return", "model": "dune-mini"}
+{"example_id": "tkt-00623", "label": "SHIPPING", "model": "ember-8x"}
+{"example_id": "tkt-00623", "label": "returns", "model": "foxtail-pro"}
+{"example_id": "tkt-00624", "label": "  billing ", "model": "aurora-70b"}
+{"example_id": "tkt-00624", "label": "  billing ", "model": "bramble-x"}
+{"example_id": "tkt-00624", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00624", "label": "Billing", "model": "dune-mini"}
+{"example_id": "tkt-00624", "label": "Billing", "model": "ember-8x"}
+{"example_id": "tkt-00624", "label": "  billing ", "model": "foxtail-pro"}
+{"example_id": "tkt-00625", "label": "refunds", "model": "aurora-70b"}
+{"example_id": "tkt-00625", "label": "Tracking", "model": "bramble-x"}
+{"example_id": "tkt-00625", "label": "REFUND", "model": "cascade-2"}
+{"example_id": "tkt-00625", "label": "Refunds", "model": "dune-mini"}
+{"example_id": "tkt-00625", "label": "refunds", "model": "ember-8x"}
+{"example_id": "tkt-00625", "label": "refunds", "model": "foxtail-pro"}
+{"example_id": "tkt-00626", "label": "FAULTY", "model": "aurora-70b"}
+{"example_id": "tkt-00626", "label": "product_defect", "model": "bramble-x"}
+{"example_id": "tkt-00626", "label": "Faulty", "model": "cascade-2"}
+{"example_id": "tkt-00626", "label": "Product_Defect", "model": "dune-mini"}
+{"example_id": "tkt-00626", "label": "misc", "model": "dune-mini"}
+{"example_id": "tkt-00626", "label": "product_defect", "model": "ember-8x"}
+{"example_id": "tkt-00626", "label": "shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00627", "label": "general_inquiry", "model": "aurora-70b"}
+{"example_id": "tkt-00627", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00627", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00627", "label": "GENERAL_INQUIRY", "model": "dune-mini"}
+{"example_id": "tkt-00627", "label": "suggestion", "model": "ember-8x"}
+{"example_id": "tkt-00627", "label": "customer angry", "model": "foxtail-pro"}
+{"example_id": "tkt-00628", "label": "  package ", "model": "aurora-70b"}
+{"example_id": "tkt-00628", "label": "delivery", "model": "bramble-x"}
+{"example_id": "tkt-00628", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00628", "label": "exchange", "model": "dune-mini"}
+{"example_id": "tkt-00628", "label": "escalate", "model": "dune-mini"}
+{"example_id": "tkt-00628", "label": "shipping", "model": "ember-8x"}
+{"example_id": "tkt-00628", "label": "shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00629", "label": "money back", "model": "aurora-70b"}
+{"example_id": "tkt-00629", "label": "refunds", "model": "bramble-x"}
+{"example_id": "tkt-00629", "label": "  refunds ", "model": "cascade-2"}
+{"example_id": "tkt-00629", "label": "refunds", "model": "dune-mini"}
+{"example_id": "tkt-00629", "label": "shipping", "model": "ember-8x"}
+{"example_id": "tkt-00629", "label": "refunds", "model": "foxtail-pro"}
+{"example_id": "tkt-00630", "label": "product_defect", "model": "aurora-70b"}
+{"example_id": "tkt-00630", "label": "PRODUCT_DEFECT", "model": "bramble-x"}
+{"example_id": "tkt-00630", "label": "product_defect", "model": "cascade-2"}
+{"example_id": "tkt-00630", "label": "product_defect", "model": "ember-8x"}
+{"example_id": "tkt-00630", "label": "product_defect", "model": "foxtail-pro"}
+{"example_id": "tkt-00631", "label": "Account_Access", "model": "aurora-70b"}
+{"example_id": "tkt-00631", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00631", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00631", "label": "ACCOUNT_ACCESS", "model": "dune-mini"}
+{"example_id": "tkt-00631", "label": "shipping", "model": "ember-8x"}
+{"example_id": "tkt-00631", "label": "login issue", "model": "foxtail-pro"}
+{"example_id": "tkt-00632", "label": "SUBSCRIPTION", "model": "aurora-70b"}
+{"example_id": "tkt-00632", "label": "Cancel Subscription", "model": "bramble-x"}
+{"example_id": "tkt-00632", "label": "SUBSCRIPTION", "model": "cascade-2"}
+{"example_id": "tkt-00632", "label": "data_privacy", "model": "dune-mini"}
+{"example_id": "tkt-00632", "label": "data_privacy", "model": "ember-8x"}
+{"example_id": "tkt-00632", "label": "Subscription", "model": "foxtail-pro"}
+{"example_id": "tkt-00633", "label": "  shipping ", "model": "aurora-70b"}
+{"example_id": "tkt-00633", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00633", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00633", "label": "Delivery", "model": "dune-mini"}
+{"example_id": "tkt-00633", "label": "Error", "model": "ember-8x"}
+{"example_id": "tkt-00633", "label": "  package ", "model": "foxtail-pro"}
+{"example_id": "tkt-00634", "label": "feature_request", "model": "aurora-70b"}
+{"example_id": "tkt-00634", "label": "billing issue", "model": "bramble-x"}
+{"example_id": "tkt-00634", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00634", "label": "invoice", "model": "dune-mini"}
+{"example_id": "tkt-00634", "label": "billing issue", "model": "ember-8x"}
+{"example_id": "tkt-00634", "label": "billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00635", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00635", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00635", "label": "Billing", "model": "cascade-2"}
+{"example_id": "tkt-00635", "label": "  overcharge ", "model": "dune-mini"}
+{"example_id": "tkt-00635", "label": "cancel subscription", "model": "ember-8x"}
+{"example_id": "tkt-00635", "label": "billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00636", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00636", "label": "signin", "model": "bramble-x"}
+{"example_id": "tkt-00636", "label": "sign-in", "model": "cascade-2"}
+{"example_id": "tkt-00636", "label": "data_privacy", "model": "dune-mini"}
+{"example_id": "tkt-00636", "label": "account_access", "model": "ember-8x"}
+{"example_id": "tkt-00636", "label": "error", "model": "foxtail-pro"}
+{"example_id": "tkt-00637", "label": "RETURNS", "model": "aurora-70b"}
+{"example_id": "tkt-00637", "label": "  returns ", "model": "bramble-x"}
+{"example_id": "tkt-00637", "label": "returns", "model": "cascade-2"}
+{"example_id": "tkt-00637", "label": "exchange", "model": "dune-mini"}
+{"example_id": "tkt-00637", "label": "RETURNS", "model": "ember-8x"}
+{"example_id": "tkt-00637", "label": "returns", "model": "foxtail-pro"}
+{"example_id": "tkt-00638", "label": "shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00638", "label": "shipping", "model": "bramble-x"}
+{"example_id": "tkt-00638", "label": "  package ", "model": "cascade-2"}
+{"example_id": "tkt-00638", "label": "PACKAGE", "model": "dune-mini"}
+{"example_id": "tkt-00638", "label": "Feature_Request", "model": "ember-8x"}
+{"example_id": "tkt-00638", "label": "shipping", "model": "foxtail-pro"}
+{"example_id": "tkt-00639", "label": "login issue", "model": "aurora-70b"}
+{"example_id": "tkt-00639", "label": "account_access", "model": "bramble-x"}
+{"example_id": "tkt-00639", "label": "login issue", "model": "cascade-2"}
+{"example_id": "tkt-00639", "label": "ACCOUNT_ACCESS", "model": "dune-mini"}
+{"example_id": "tkt-00639", "label": "faulty", "model": "ember-8x"}
+{"example_id": "tkt-00640", "label": "Shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00640", "label": "GENERAL_INQUIRY", "model": "bramble-x"}
+{"example_id": "tkt-00640", "label": "delivery", "model": "cascade-2"}
+{"example_id": "tkt-00640", "label": "Tracking", "model": "dune-mini"}
+{"example_id": "tkt-00640", "label": "general_inquiry", "model": "ember-8x"}
+{"example_id": "tkt-00640", "label": "  feature_request ", "model": "foxtail-pro"}
+{"example_id": "tkt-00641", "label": "technical_error", "model": "aurora-70b"}
+{"example_id": "tkt-00641", "label": "package", "model": "bramble-x"}
+{"example_id": "tkt-00641", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00641", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00641", "label": "  technical_error ", "model": "ember-8x"}
+{"example_id": "tkt-00641", "label": "  technical_error ", "model": "foxtail-pro"}
+{"example_id": "tkt-00642", "label": "Shipping", "model": "aurora-70b"}
+{"example_id": "tkt-00642", "label": "subscription", "model": "bramble-x"}
+{"example_id": "tkt-00642", "label": "shipping", "model": "cascade-2"}
+{"example_id": "tkt-00642", "label": "Package", "model": "dune-mini"}
+{"example_id": "tkt-00642", "label": "  data_privacy ", "model": "ember-8x"}
+{"example_id": "tkt-00642", "label": "feature_request", "model": "foxtail-pro"}
+{"example_id": "tkt-00643", "label": "tracking", "model": "aurora-70b"}
+{"example_id": "tkt-00643", "label": "shipping", "model": "bramble-x"}
+{"example_id": "tkt-00643", "label": "Shipping", "model": "dune-mini"}
+{"example_id": "tkt-00643", "label": "PACKAGE", "model": "ember-8x"}
+{"example_id": "tkt-00644", "label": "  data_privacy ", "model": "aurora-70b"}
+{"example_id": "tkt-00644", "label": "WARRANTY", "model": "bramble-x"}
+{"example_id": "tkt-00644", "label": "data_privacy", "model": "cascade-2"}
+{"example_id": "tkt-00644", "label": "privacy", "model": "dune-mini"}
+{"example_id": "tkt-00644", "label": "data_privacy", "model": "ember-8x"}
+{"example_id": "tkt-00644", "label": "  warranty ", "model": "foxtail-pro"}
+{"example_id": "tkt-00645", "label": "Feature_Request", "model": "aurora-70b"}
+{"example_id": "tkt-00645", "label": "  refunds ", "model": "bramble-x"}
+{"example_id": "tkt-00645", "label": "REFUNDS", "model": "cascade-2"}
+{"example_id": "tkt-00645", "label": "gdpr request", "model": "dune-mini"}
+{"example_id": "tkt-00645", "label": "refunds", "model": "ember-8x"}
+{"example_id": "tkt-00645", "label": "suggestion", "model": "foxtail-pro"}
+{"example_id": "tkt-00646", "label": "refunds", "model": "aurora-70b"}
+{"example_id": "tkt-00646", "label": "  money back ", "model": "bramble-x"}
+{"example_id": "tkt-00646", "label": "refunds", "model": "cascade-2"}
+{"example_id": "tkt-00646", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00646", "label": "refund", "model": "ember-8x"}
+{"example_id": "tkt-00646", "label": "  refund ", "model": "foxtail-pro"}
+{"example_id": "tkt-00647", "label": "technical_error", "model": "aurora-70b"}
+{"example_id": "tkt-00647", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00647", "label": "technical_error", "model": "cascade-2"}
+{"example_id": "tkt-00647", "label": "bug", "model": "dune-mini"}
+{"example_id": "tkt-00647", "label": "TECHNICAL_ERROR", "model": "ember-8x"}
+{"example_id": "tkt-00647", "label": "billing", "model": "foxtail-pro"}
+{"example_id": "tkt-00648", "label": "overcharge", "model": "aurora-70b"}
+{"example_id": "tkt-00648", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00648", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00648", "label": "OVERCHARGE", "model": "ember-8x"}
+{"example_id": "tkt-00648", "label": "  question ", "model": "foxtail-pro"}
+{"example_id": "tkt-00649", "label": "gdpr_request", "model": "aurora-70b"}
+{"example_id": "tkt-00649", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00649", "label": "data_privacy", "model": "cascade-2"}
+{"example_id": "tkt-00649", "label": "gdpr_request", "model": "dune-mini"}
+{"example_id": "tkt-00649", "label": "  privacy ", "model": "ember-8x"}
+{"example_id": "tkt-00649", "label": "gdpr request", "model": "foxtail-pro"}
+{"example_id": "tkt-00650", "label": "DELIVERY", "model": "aurora-70b"}
+{"example_id": "tkt-00650", "label": "customer angry", "model": "aurora-70b"}
+{"example_id": "tkt-00650", "label": "tracking", "model": "bramble-x"}
+{"example_id": "tkt-00650", "label": "  shipping ", "model": "cascade-2"}
+{"example_id": "tkt-00650", "label": "SHIPPING", "model": "dune-mini"}
+{"example_id": "tkt-00650", "label": "SHIPPING", "model": "ember-8x"}
+{"example_id": "tkt-00650", "label": "refunds", "model": "foxtail-pro"}
+{"example_id": "tkt-00651", "label": "subscription", "model": "aurora-70b"}
+{"example_id": "tkt-00651", "label": "ERROR", "model": "bramble-x"}
+{"example_id": "tkt-00651", "label": "downgrade", "model": "cascade-2"}
+{"example_id": "tkt-00651", "label": "subscription", "model": "dune-mini"}
+{"example_id": "tkt-00651", "label": "downgrade", "model": "ember-8x"}
+{"example_id": "tkt-00651", "label": "SUBSCRIPTION", "model": "foxtail-pro"}
+{"example_id": "tkt-00652", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00652", "label": "technical_error", "model": "bramble-x"}
+{"example_id": "tkt-00652", "label": "  feature_request ", "model": "cascade-2"}
+{"example_id": "tkt-00652", "label": "locked out", "model": "dune-mini"}
+{"example_id": "tkt-00652", "label": "account_access", "model": "ember-8x"}
+{"example_id": "tkt-00652", "label": "account_access", "model": "foxtail-pro"}
+{"example_id": "tkt-00653", "label": "REFUND", "model": "aurora-70b"}
+{"example_id": "tkt-00653", "label": "faulty", "model": "bramble-x"}
+{"example_id": "tkt-00653", "label": "billing", "model": "cascade-2"}
+{"example_id": "tkt-00653", "label": "shipping", "model": "dune-mini"}
+{"example_id": "tkt-00653", "label": "Shipping", "model": "ember-8x"}
+{"example_id": "tkt-00653", "label": "warranty", "model": "foxtail-pro"}
+{"example_id": "tkt-00654", "label": "error", "model": "aurora-70b"}
+{"example_id": "tkt-00654", "label": "refunds", "model": "bramble-x"}
+{"example_id": "tkt-00654", "label": "  signin ", "model": "cascade-2"}
+{"example_id": "tkt-00654", "label": "refund", "model": "dune-mini"}
+{"example_id": "tkt-00654", "label": "refunds", "model": "ember-8x"}
+{"example_id": "tkt-00654", "label": "refunds", "model": "foxtail-pro"}
+{"example_id": "tkt-00655", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00655", "label": "package", "model": "bramble-x"}
+{"example_id": "tkt-00655", "label": "payment", "model": "cascade-2"}
+{"example_id": "tkt-00655", "label": "billing", "model": "dune-mini"}
+{"example_id": "tkt-00655", "label": "overcharge", "model": "ember-8x"}
+{"example_id": "tkt-00655", "label": "TECHNICAL_ERROR", "model": "foxtail-pro"}
+{"example_id": "tkt-00656", "label": "subscription", "model": "aurora-70b"}
+{"example_id": "tkt-00656", "label": "  returns ", "model": "bramble-x"}
+{"example_id": "tkt-00656", "label": "EXCHANGE", "model": "cascade-2"}
+{"example_id": "tkt-00656", "label": "returns", "model": "dune-mini"}
+{"example_id": "tkt-00656", "label": "return", "model": "ember-8x"}
+{"example_id": "tkt-00656", "label": "Returns", "model": "foxtail-pro"}
+{"example_id": "tkt-00657", "label": "signin", "model": "aurora-70b"}
+{"example_id": "tkt-00657", "label": "  account_access ", "model": "bramble-x"}
+{"example_id": "tkt-00657", "label": "ACCOUNT_ACCESS", "model": "cascade-2"}
+{"example_id": "tkt-00657", "label": "account_access", "model": "dune-mini"}
+{"example_id": "tkt-00657", "label": "  signin ", "model": "ember-8x"}
+{"example_id": "tkt-00657", "label": "warranty", "model": "foxtail-pro"}
+{"example_id": "tkt-00658", "label": "ERROR", "model": "aurora-70b"}
+{"example_id": "tkt-00658", "label": "bug", "model": "bramble-x"}
+{"example_id": "tkt-00658", "label": "Technical_Error", "model": "cascade-2"}
+{"example_id": "tkt-00658", "label": "technical_error", "model": "dune-mini"}
+{"example_id": "tkt-00658", "label": "technical_error", "model": "ember-8x"}
+{"example_id": "tkt-00658", "label": "technical_error", "model": "foxtail-pro"}
+{"example_id": "tkt-00659", "label": "refund", "model": "bramble-x"}
+{"example_id": "tkt-00659", "label": "refund", "model": "cascade-2"}
+{"example_id": "tkt-00659", "label": "refund", "model": "dune-mini"}
+{"example_id": "tkt-00659", "label": "REFUNDS", "model": "ember-8x"}
+{"example_id": "tkt-00659", "label": "refunds", "model": "foxtail-pro"}
+{"example_id": "tkt-00660", "label": "account_access", "model": "aurora-70b"}
+{"example_id": "tkt-00660", "label": "ACCOUNT_ACCESS", "model": "bramble-x"}
+{"example_id": "tkt-00660", "label": "account_access", "model": "cascade-2"}
+{"example_id": "tkt-00660", "label": "BILLING", "model": "dune-mini"}
+{"example_id": "tkt-00660", "label": "locked out", "model": "ember-8x"}
+{"example_id": "tkt-00660", "label": "account_access", "model": "foxtail-pro"}
+{"example_id": "tkt-00661", "label": "returns", "model": "aurora-70b"}
+{"example_id": "tkt-00661", "label": "returns", "model": "bramble-x"}
+{"example_id": "tkt-00661", "label": "returns", "model": "cascade-2"}
+{"example_id": "tkt-00661", "label": "returns", "model": "dune-mini"}
+{"example_id": "tkt-00661", "label": "feature_request", "model": "ember-8x"}
+{"example_id": "tkt-00661", "label": "  returns ", "model": "foxtail-pro"}
+{"example_id": "tkt-00662", "label": "billing", "model": "aurora-70b"}
+{"example_id": "tkt-00662", "label": "billing", "model": "bramble-x"}
+{"example_id": "tkt-00662", "label": "Billing", "model": "cascade-2"}
+{"example_id": "tkt-00662", "label": "billing_issue", "model": "dune-mini"}
+{"example_id": "tkt-00662", "label": "billing", "model": "ember-8x"}
+{"example_id": "tkt-00662", "label": "billing_issue", "model": "foxtail-pro"}
+{"example_id": "tkt-00663", "label": "tracking", "model": "aurora-70b"}
+{"example_id": "tkt-00663", "label": "shipping", "model": "bramble-x"}
+{"example_id": "tkt-00663", "label": "tracking", "model": "cascade-2"}
+{"example_id": "tkt-00663", "label": "delivery", "model": "dune-mini"}
+{"example_id": "tkt-00663", "label": "shipping", "model": "ember-8x"}
+{"example_id": "tkt-00663", "label": "warranty", "model": "foxtail-pro"}
+{"example_id": "tkt-00664", "label": "GENERAL_INQUIRY", "model": "aurora-70b"}
+{"example_id": "tkt-00664", "label": "general_inquiry", "model": "bramble-x"}
+{"example_id": "tkt-00664", "label": "GENERAL_INQUIRY", "model": "cascade-2"}
+{"example_id": "tkt-00664", "label": "GENERAL_INQUIRY", "model": "dune-mini"}
+{"example_id": "tkt-00664", "label": "other", "model": "ember-8x"}
+{"example_id": "tkt-00664", "label": "general_inquiry", "model": "foxtail-pro"}
+{"example_id": "tkt-00665", "label": "spam?", "model": "aurora-70b"}
+{"example_id": "tkt-00665", "label": "  returns ", "model": "bramble-x"}
+{"example_id": "tkt-00665", "label": "product_defect", "model": "cascade-2"}
+{"example_id": "tkt-00665", "label": "Broken Item", "model": "dune-mini"}
+{"example_id": "tkt-00665", "label": "product_defect", "model": "ember-8x"}
+{"example_id": "tkt-00665", "label": "product_defect", "model": "foxtail-pro"}
+{"example_id": "tkt-90005", "label": "technical_error", "model": "cascade-2"}

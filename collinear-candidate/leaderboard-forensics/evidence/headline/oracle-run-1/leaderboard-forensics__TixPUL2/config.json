@@ -1,0 +1,12 @@
+{
+    "task": {
+        "path": "collinear-candidate/leaderboard-forensics"
+    },
+    "trial_name": "leaderboard-forensics__TixPUL2",
+    "trials_dir": "runs/2026-08-31__11-46-55",
+    "environment": {
+        "type": "docker",
+        "force_build": true
+    },
+    "job_id": "24f4fb67-22d2-489a-86d2-26fb4ef9f0ff"
+}

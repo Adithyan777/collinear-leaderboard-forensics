@@ -1,0 +1,59 @@
+{
+  "data_repair": {
+    "failures": [],
+    "ref_ranking": [
+      "cascade-2",
+      "aurora-70b",
+      "bramble-x",
+      "foxtail-pro",
+      "dune-mini",
+      "ember-8x"
+    ],
+    "score": 1.0
+  },
+  "report_accuracy": {
+    "failures": [],
+    "fields": {
+      "corrected_overall": true,
+      "corrected_ranking": true,
+      "root_cause": true,
+      "shard_anomalies": true
+    },
+    "score": 1.0
+  },
+  "root_cause_fix": {
+    "crash_idx": 10,
+    "failures": [],
+    "heldout_seed": 70101,
+    "score": 1.0
+  },
+  "test_suite": {
+    "failures": [],
+    "kills": 11,
+    "kills_required": 15,
+    "n_mutants": 16,
+    "rounds": {
+      "mutant_01": "fail (killed)",
+      "mutant_02": "fail (killed)",
+      "mutant_03": "fail (killed)",
+      "mutant_04": "fail (killed)",
+      "mutant_05": "fail (killed)",
+      "mutant_06": "fail (killed)",
+      "mutant_07": "fail (killed)",
+      "mutant_08": "fail (killed)",
+      "mutant_09": "fail (killed)",
+      "mutant_10": "pass (survived)",
+      "mutant_11": "pass (survived)",
+      "mutant_12": "fail (killed)",
+      "mutant_13": "pass (survived)",
+      "mutant_14": "pass (survived)",
+      "mutant_15": "fail (killed)",
+      "mutant_17": "pass (survived)",
+      "reference": "pass",
+      "reference_variant_a": "pass",
+      "reference_variant_b": "pass"
+    },
+    "score": 0.6875,
+    "suite_passed": false
+  }
+}

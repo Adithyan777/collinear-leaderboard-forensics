@@ -1,0 +1,8 @@
+{
+  "id": "1",
+  "subject": "Fix resume_plan bug in checkpoint.py",
+  "description": "Root cause: resume_plan promotes in_progress shard to completed and redoes previous shard. Fix so interrupted shard is re-run, and pre-existing rows are cleared before re-insert to be idempotent.",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "2",
+  "subject": "Re-run pipeline to regenerate DB + leaderboard",
+  "description": "Run fresh scoring, build_leaderboard, report_md",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

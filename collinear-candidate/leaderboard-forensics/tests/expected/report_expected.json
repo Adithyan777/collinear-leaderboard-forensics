@@ -1,0 +1,34 @@
+{
+  "corrected_overall": {
+    "aurora-70b": 0.7964,
+    "bramble-x": 0.7817,
+    "cascade-2": 0.8356,
+    "dune-mini": 0.6825,
+    "ember-8x": 0.633,
+    "foxtail-pro": 0.7208
+  },
+  "corrected_ranking": [
+    "cascade-2",
+    "aurora-70b",
+    "bramble-x",
+    "foxtail-pro",
+    "dune-mini",
+    "ember-8x"
+  ],
+  "root_cause": {
+    "file": "pipeline/checkpoint.py",
+    "function": "resume_plan"
+  },
+  "shard_anomalies": [
+    {
+      "defect": "surplus_rows",
+      "n_rows": 1998,
+      "shard": "shard_07"
+    },
+    {
+      "defect": "missing_rows",
+      "n_rows": 1998,
+      "shard": "shard_08"
+    }
+  ]
+}

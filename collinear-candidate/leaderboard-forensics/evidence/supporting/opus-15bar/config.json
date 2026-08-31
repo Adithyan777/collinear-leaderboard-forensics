@@ -1,0 +1,27 @@
+{
+    "job_name": "2026-08-30__23-12-19",
+    "jobs_dir": "runs",
+    "quiet": true,
+    "environment": {
+        "type": "docker",
+        "extra_allowed_hosts": [
+            "deb.debian.org",
+            "security.debian.org",
+            "downloads.claude.ai",
+            "claude.ai",
+            "storage.googleapis.com",
+            "openrouter.ai"
+        ]
+    },
+    "agents": [
+        {
+            "name": "claude-code",
+            "model_name": "anthropic/claude-opus-4.7"
+        }
+    ],
+    "tasks": [
+        {
+            "path": "collinear-candidate/leaderboard-forensics"
+        }
+    ]
+}

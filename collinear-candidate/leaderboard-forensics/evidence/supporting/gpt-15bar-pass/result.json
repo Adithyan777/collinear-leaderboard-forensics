@@ -1,0 +1,63 @@
+{
+    "id": "203d8bf3-37e7-4d15-a6e3-c101cfe788ee",
+    "started_at": "2026-08-30T23:19:13.090974",
+    "updated_at": "2026-08-30T23:31:37.004855",
+    "finished_at": "2026-08-30T23:31:37.004855",
+    "n_total_trials": 1,
+    "stats": {
+        "n_completed_trials": 1,
+        "n_errored_trials": 0,
+        "n_running_trials": 0,
+        "n_pending_trials": 0,
+        "n_cancelled_trials": 0,
+        "n_retries": 0,
+        "evals": {
+            "codex__gpt-5.5__adhoc": {
+                "n_trials": 1,
+                "n_errors": 0,
+                "metrics": [
+                    {
+                        "data_repair": 1.0,
+                        "overall": 1.0,
+                        "report_accuracy": 1.0,
+                        "root_cause_fix": 1.0,
+                        "test_suite": 0.9333
+                    }
+                ],
+                "pass_at_k": {},
+                "reward_stats": {
+                    "data_repair": {
+                        "1.0": [
+                            "leaderboard-forensics__jy7ekTQ"
+                        ]
+                    },
+                    "overall": {
+                        "1.0": [
+                            "leaderboard-forensics__jy7ekTQ"
+                        ]
+                    },
+                    "report_accuracy": {
+                        "1.0": [
+                            "leaderboard-forensics__jy7ekTQ"
+                        ]
+                    },
+                    "root_cause_fix": {
+                        "1.0": [
+                            "leaderboard-forensics__jy7ekTQ"
+                        ]
+                    },
+                    "test_suite": {
+                        "0.9333": [
+                            "leaderboard-forensics__jy7ekTQ"
+                        ]
+                    }
+                },
+                "exception_stats": {}
+            }
+        },
+        "n_input_tokens": 1058446,
+        "n_cache_tokens": 990208,
+        "n_output_tokens": 47681,
+        "cost_usd": 2.2667240000000004
+    }
+}

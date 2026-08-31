@@ -1,0 +1,8 @@
+{
+  "id": "4",
+  "subject": "Author acceptance tests for scorer",
+  "description": "At least 8 pytest tests covering SPEC behaviors: normalization, aliasing, validity, duplicates, stray IDs, per-category F1 zero-denom, aggregation (gold-present only), rounding half-up, ranking with ties.",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

@@ -1,0 +1,23 @@
+{
+    "task": {
+        "path": "collinear-candidate/leaderboard-forensics"
+    },
+    "trial_name": "leaderboard-forensics__sfoKQFE",
+    "trials_dir": "runs/2026-08-31__00-18-45",
+    "agent": {
+        "name": "claude-code",
+        "model_name": "anthropic/claude-opus-4.7"
+    },
+    "environment": {
+        "type": "docker",
+        "extra_allowed_hosts": [
+            "deb.debian.org",
+            "security.debian.org",
+            "downloads.claude.ai",
+            "claude.ai",
+            "storage.googleapis.com",
+            "openrouter.ai"
+        ]
+    },
+    "job_id": "d72d4736-cf73-4a0e-b10d-10d0ef140747"
+}

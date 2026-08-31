@@ -1,0 +1,5 @@
+[grader] root_cause_fix: 1.0
+[grader] data_repair: 1.0
+[grader] report_accuracy: 1.0
+[grader] test_suite: 1.0
+[grader] reward: {"data_repair": 1.0, "overall": 1.0, "report_accuracy": 1.0, "root_cause_fix": 1.0, "test_suite": 1.0}

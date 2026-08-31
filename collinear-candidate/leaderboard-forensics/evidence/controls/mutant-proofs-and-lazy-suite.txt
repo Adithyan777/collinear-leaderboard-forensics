@@ -1,0 +1,44 @@
+graded set: 16 mutants, excluded: ['mutant_16', 'mutant_18'] (blind-reachability rule)
+  mutant_16: discriminates (EXCLUDED from grading)
+  mutant_18: discriminates (EXCLUDED from grading)
+killing-input proofs: 18/18 discriminate (16 graded + 2 excluded)
+variant identity battery: 2 variants x 19 inputs, all identical to reference
+oracle suite vs reference + 2 variants: PASS (no false alarms)
+oracle suite vs mutant_01: KILLED
+oracle suite vs mutant_02: KILLED
+oracle suite vs mutant_03: KILLED
+oracle suite vs mutant_04: KILLED
+oracle suite vs mutant_05: KILLED
+oracle suite vs mutant_06: KILLED
+oracle suite vs mutant_07: KILLED
+oracle suite vs mutant_08: KILLED
+oracle suite vs mutant_09: KILLED
+oracle suite vs mutant_10: KILLED
+oracle suite vs mutant_11: KILLED
+oracle suite vs mutant_12: KILLED
+oracle suite vs mutant_13: KILLED
+oracle suite vs mutant_14: KILLED
+oracle suite vs mutant_15: KILLED
+oracle suite vs mutant_16: KILLED
+oracle suite vs mutant_17: KILLED
+oracle suite vs mutant_18: KILLED
+lazy suite vs mutant_01: KILLED
+lazy suite vs mutant_02: survived
+lazy suite vs mutant_03: KILLED
+lazy suite vs mutant_04: survived
+lazy suite vs mutant_05: survived
+lazy suite vs mutant_06: survived
+lazy suite vs mutant_07: survived
+lazy suite vs mutant_08: survived
+lazy suite vs mutant_09: survived
+lazy suite vs mutant_10: survived
+lazy suite vs mutant_11: survived
+lazy suite vs mutant_12: survived
+lazy suite vs mutant_13: survived
+lazy suite vs mutant_14: survived
+lazy suite vs mutant_15: survived
+lazy suite vs mutant_16: survived [excluded]
+lazy suite vs mutant_17: survived
+lazy suite vs mutant_18: survived [excluded]
+lazy smoke suite kills 2/16 GRADED (low = discriminates; all escalation mutants must survive)
+check_mutants: ALL OK
